@@ -42,19 +42,19 @@ openEuler 社区作为最主要的参与社区之一，计划提供150个左右�
 
   目标：很强的计算机专业的研究生
   典型高难度是优化类的工作，提高时间、降低内存占用、提供性能等。
-  示例：https://gitee.com/openeuler-competition/summer-2021/issues/I3CKTZ?from=project-issue 
+      示例：https://gitee.com/openeuler-competition/summer-2021/issues/I3CKTZ?from=project-issue 
 
 
 - 中难度：学生奖金 RMB 9000 元
 
   目标：能力相当于研一、研二计算机专业的学生
-  示例：https://gitee.com/openeuler-competition/summer-2021/issues/I3CKYX?from=project-issue
+     示例：https://gitee.com/openeuler-competition/summer-2021/issues/I3CKYX?from=project-issue
 
 
 - 低难度：学生奖金 RMB 6000 元
 
   目标：能力相当于大三、大四计算机专业的学生
-  示例：https://gitee.com/openeuler-competition/summer-2021/issues/I3CL13?from=project-issue
+     示例：https://gitee.com/openeuler-competition/summer-2021/issues/I3CL13?from=project-issue
 
 
 **题目提交方式：**
