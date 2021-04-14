@@ -68,7 +68,7 @@ openEuler 社区作为最主要的参与社区之一，计划提供150个左右�
 
 **题目提交方式：**
 
-题目出好后，请用导师个人的账号以新建issue的形式提交到本仓库。（方便在学生报名阶段导师在该issue里解答学生对于题目的疑问）
+题目出好后，请用导师个人的账号以新建issue的形式提交到本仓库。
 
 提交地址：https://gitee.com/openeuler-competition/summer-2021/issues 。
 
