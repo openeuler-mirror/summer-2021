@@ -33,6 +33,8 @@ openEuler 社区将出具100+项目任务供大家选择，涉及到openEuler �
 活动整体详情可以访问 [暑期2021活动官网](https://summer.iscas.ac.cn/)。
 
  **欢迎加入暑期2021活动openEuler社区交流群，有问题欢迎群内交流，项目任务讲解直播等活动将在群内通知。** 
-![暑期2021群二维码](https://images.gitee.com/uploads/images/2021/0425/105702_70bfeb09_114870.jpeg "暑期2021二维码.jpg")
+![暑期2021二维码](https://images.gitee.com/uploads/images/2021/0517/093917_27831409_114870.png "60C885E8-B951-47DC-B4D4-F2F08B3D243B.png")
+
+如二维码过期，请添加openEuler小助手（微信号openeuler123），备注“暑期2021”拉你进群
 
 
