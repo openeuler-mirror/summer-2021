@@ -27,7 +27,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.5 为 openEuler提供OpenStack Swift软件包
+- name: Summer2021-No.5 为openEuler提供OpenStack Swift软件包
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUTE
   path: https://gitee.com/openeuler-competition/summer2021-5
   tutor: 
@@ -63,7 +63,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.9 为 openEuler提供OpenStack容器化部署能力
+- name: Summer2021-No.9 为openEuler提供OpenStack容器化部署能力
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV1S
   path: https://gitee.com/openeuler-competition/summer2021-9
   tutor: 
@@ -81,7 +81,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 11. openEuler开发者用户画像
+- name: Summer2021-No.11 openEuler开发者用户画像
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV26
   path: https://gitee.com/openeuler-competition/summer2021-11
   tutor: 
@@ -90,7 +90,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 12. 为openEuler社区提供一个FAQ的web服务
+- name: Summer2021-No.12 为openEuler社区提供一个FAQ的web服务
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV2B
   path: https://gitee.com/openeuler-competition/summer2021-12
   tutor: 
@@ -99,7 +99,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 13. openEuler版本演进中的License冲突检测
+- name: Summer2021-No.13 openEuler版本演进中的License冲突检测
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E2PG
   path: https://gitee.com/openeuler-competition/summer2021-13
   tutor: 
@@ -108,7 +108,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 14. 开发基于freerdp 的 openEuler rdp桌面连接应用
+- name: Summer2021-No.14 开发基于freerdp的openEuler rdp桌面连接应用
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9AZ
   path: https://gitee.com/openeuler-competition/summer2021-14
   tutor: 
@@ -117,7 +117,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 15. 开发iso刻录DDE桌面应用
+- name: Summer2021-No.15 开发iso刻录DDE桌面应用
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9CG
   path: https://gitee.com/openeuler-competition/summer2021-15
   tutor: 
@@ -126,7 +126,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 16. 开发DDE桌面上基于 rpm 的软件包安装器
+- name: Summer2021-No.16 开发DDE桌面上基于rpm的软件包安装器
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9DN
   path: https://gitee.com/openeuler-competition/summer2021-16
   tutor: 
@@ -135,7 +135,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 17. 为openEuler社区适配开源的学之思在线考试系统
+- name: Summer2021-No.17 为openEuler社区适配开源的学之思在线考试系统
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9IY
   path: https://gitee.com/openeuler-competition/summer2021-17
   tutor: 
@@ -144,7 +144,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 18. linux内核的维测工具page owner增强
+- name: Summer2021-No.18 linux内核的维测工具page owner增强
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9Y8
   path: https://gitee.com/openeuler-competition/summer2021-18
   tutor: 
@@ -153,7 +153,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 19 树莓派, 移动终端等资源受限场景KSM性能优化
+- name: Summer2021-No.19 树莓派, 移动终端等资源受限场景KSM性能优化
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EASJ
   path: https://gitee.com/openeuler-competition/summer2021-19
   tutor: 
@@ -171,7 +171,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 21 RISC-V 栈回溯增强
+- name: Summer2021-No.21 RISC-V栈回溯增强
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EATA
   path: https://gitee.com/openeuler-competition/summer2021-21
   tutor: 
@@ -180,7 +180,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 23. 实现RISCV架构下支持qspinlock
+- name: Summer2021-No.23 实现RISCV架构下支持qspinlock
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EAV7
   path: https://gitee.com/openeuler-competition/summer2021-23
   tutor: 
@@ -189,7 +189,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 24. 基于 Linux Lab 搭建 openEuler 内核开发环境
+- name: Summer2021-No.24 基于Linux Lab搭建openEuler内核开发环境
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSE
   path: https://gitee.com/openeuler-competition/summer2021-24
   tutor: 
@@ -198,7 +198,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 25.  基于 openEuler kernel 出一个实时内核，并评估实时性
+- name: Summer2021-No.25 基于openEuler kernel出一个实时内核，并评估实时性
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSK
   path: https://gitee.com/openeuler-competition/summer2021-25
   tutor: 
@@ -207,7 +207,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 26. 优化 openEuler 内核启动时间(重启时间)
+- name: Summer2021-No.26 优化openEuler内核启动时间(重启时间)
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSW
   path: https://gitee.com/openeuler-competition/summer2021-26
   tutor: 
@@ -216,7 +216,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 27.  优化 Linux 系统的 CPU 占用时间统计
+- name: Summer2021-No.27 优化Linux系统的CPU占用时间统计
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBT6
   path: https://gitee.com/openeuler-competition/summer2021-27
   tutor: 
@@ -225,7 +225,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 28. 改进的JDK的intrinsic添加手段
+- name: Summer2021-No.28 改进的JDK的intrinsic添加手段
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ECTQ
   path: https://gitee.com/openeuler-competition/summer2021-28
   tutor: 
@@ -234,7 +234,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.29. 使能Files cgroup系统支持 stat功能
+- name: Summer2021-No.29 使能Files cgroup系统支持stat功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ECXD
   path: https://gitee.com/openeuler-competition/summer2021-29
   tutor: 
@@ -252,7 +252,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No31. StratoVirt虚拟化平台启动时间的优化
+- name: Summer2021-No.31 StratoVirt虚拟化平台启动时间的优化
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDJ4
   path: https://gitee.com/openeuler-competition/summer2021-31
   tutor: 
@@ -261,7 +261,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.32. 在StratoVirt虚拟化平台实现io_uring特性
+- name: Summer2021-No.32 在StratoVirt虚拟化平台实现io_uring特性
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQ9
   path: https://gitee.com/openeuler-competition/summer2021-32
   tutor: 
@@ -270,7 +270,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No33. 为内核ftrace设计一个轻量级中断处理、关中断、关抢占时长监测工具
+- name: Summer2021-No.33 为内核ftrace设计一个轻量级中断处理、关中断、关抢占时长监测工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQE
   path: https://gitee.com/openeuler-competition/summer2021-33
   tutor: 
@@ -279,7 +279,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No34. 实现perf 支持IRQ监控
+- name: Summer2021-No.34 实现perf支持IRQ监控
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQR
   path: https://gitee.com/openeuler-competition/summer2021-34
   tutor: 
@@ -288,7 +288,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No35.内核踩内存问题定位辅助驱动
+- name: Summer2021-No.35 内核踩内存问题定位辅助驱动
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDST
   path: https://gitee.com/openeuler-competition/summer2021-35
   tutor: 
@@ -297,7 +297,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No36. 将AMD ROCm开源软件栈逐步引入openEuler实现GPU加速计算
+- name: Summer2021-No.36 将AMD ROCm开源软件栈逐步引入openEuler实现GPU加速计算
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EEN1
   path: https://gitee.com/openeuler-competition/summer2021-36
   tutor: 
@@ -315,7 +315,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No38. 优化secGear编译框架
+- name: Summer2021-No.38 优化secGear编译框架
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFP5
   path: https://gitee.com/openeuler-competition/summer2021-38
   tutor: 
@@ -387,7 +387,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No46.使用secGear机密计算框架保护openssh的落盘口令
+- name: Summer2021-No.46 使用secGear机密计算框架保护openssh的落盘口令
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGZ9
   path: https://gitee.com/openeuler-competition/summer2021-46
   tutor: 
@@ -414,7 +414,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.49 实现openEuler平台下基于secGear框架的身份认证功能
+- name: Summer2021-No.49 实现openEuler平台下基于secGear框架的身份认证功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCT
   path: https://gitee.com/openeuler-competition/summer2021-49
   tutor: 
@@ -423,7 +423,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.50 openEuler平台下基于secGear框架的数字作品权属保护
+- name: Summer2021-No.50 openEuler平台下基于secGear框架的数字作品权属保护
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCY
   path: https://gitee.com/openeuler-competition/summer2021-50
   tutor: 
@@ -432,7 +432,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.51 isula-build镜像构建工具支持跨架构镜像构建
+- name: Summer2021-No.51 isula-build镜像构建工具支持跨架构镜像构建
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EI2P
   path: https://gitee.com/openeuler-competition/summer2021-51
   tutor: 
@@ -441,7 +441,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.52 将per-memcg LRU lock 特性移植到openEuler的内核上
+- name: Summer2021-No.52 将per-memcg LRU lock特性移植到openEuler的内核上
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIE3
   path: https://gitee.com/openeuler-competition/summer2021-52
   tutor: 
@@ -450,7 +450,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No53 为Linux内核寻找更多的补丁修改范式
+- name: Summer2021-No.53 为Linux内核寻找更多的补丁修改范式
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIJ1
   path: https://gitee.com/openeuler-competition/summer2021-53
   tutor: 
@@ -459,7 +459,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 54. 开发Linux内核结构体关联关系分析工具
+- name: Summer2021-No.54 开发Linux内核结构体关联关系分析工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIK7
   path: https://gitee.com/openeuler-competition/summer2021-54
   tutor: 
@@ -468,7 +468,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.55 基于openEuler的5.10内核实现对系统page cache限制
+- name: Summer2021-No.55 基于openEuler的5.10内核实现对系统page cache限制
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIMT
   path: https://gitee.com/openeuler-competition/summer2021-55
   tutor: 
@@ -477,7 +477,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 56 优化Linux内核中的复杂头文件依赖
+- name: Summer2021-No.56 优化Linux内核中的复杂头文件依赖
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIOX
   path: https://gitee.com/openeuler-competition/summer2021-56
   tutor: 
@@ -486,7 +486,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 57. erofs文件系统的 dump 工具 开发
+- name: Summer2021-No.57 erofs文件系统的dump工具开发
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIRF
   path: https://gitee.com/openeuler-competition/summer2021-57
   tutor: 
@@ -495,7 +495,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.58 实现Linux memory cgroup 子系统的水线分级功能
+- name: Summer2021-No.58 实现Linux memory cgroup子系统的水线分级功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJ05
   path: https://gitee.com/openeuler-competition/summer2021-58
   tutor: 
@@ -504,7 +504,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.59 基于secGear机密计算框架实现用户信息表保护与“一次一密”
+- name: Summer2021-No.59 基于secGear机密计算框架实现用户信息表保护与“一次一密”
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJ8Q
   path: https://gitee.com/openeuler-competition/summer2021-59
   tutor: 
@@ -513,7 +513,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO60 将Data Access Monitor DAMON特性移植到openEuler内核
+- name: Summer2021-No.60 将Data Access Monitor DAMON特性移植到openEuler内核
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJPN
   path: https://gitee.com/openeuler-competition/summer2021-60
   tutor: 
@@ -549,7 +549,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.64 设计一套Arm64/RISCV内核代码分析工具
+- name: Summer2021-No.64 设计一套Arm64/RISCV内核代码分析工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EMAO
   path: https://gitee.com/openeuler-competition/summer2021-64
   tutor: 
@@ -576,7 +576,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.67 实现日志文件系统xfs 支持 subpage dirty
+- name: Summer2021-No.67 实现日志文件系统xfs支持subpage dirty
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ENI6
   path: https://gitee.com/openeuler-competition/summer2021-67
   tutor: 
@@ -585,7 +585,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 68 实现isula-build 支持多存储驱动
+- name: Summer2021-No.68 实现isula-build支持多存储驱动
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EP36
   path: https://gitee.com/openeuler-competition/summer2021-68
   tutor: 
@@ -594,7 +594,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 69 为 isula-build 实现 export 接口：将镜像导出为 rootfs
+- name: Summer2021-No.69 为isula-build实现export接口：将镜像导出为rootfs
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EP9C
   path: https://gitee.com/openeuler-competition/summer2021-69
   tutor: 
@@ -603,7 +603,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 70 为 iSulad 设计并开发性能测试框架
+- name: Summer2021-No.70 为iSulad设计并开发性能测试框架
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAA
   path: https://gitee.com/openeuler-competition/summer2021-70
   tutor: 
@@ -612,7 +612,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 71 为 iSulad 镜像下载过程添加进度条显示
+- name: Summer2021-No.71 为iSulad镜像下载过程添加进度条显示
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAO
   path: https://gitee.com/openeuler-competition/summer2021-71
   tutor: 
@@ -621,7 +621,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 72 为 iSulad 创建容器命令增加User namespace的能力
+- name: Summer2021-No.72 为iSulad创建容器命令增加User namespace的能力
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAT
   path: https://gitee.com/openeuler-competition/summer2021-72
   tutor: 
@@ -630,7 +630,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 73 为 iSulad 的查询(inspect)命令增加size 以及 type 子命令
+- name: Summer2021-No.73 为iSulad的查询(inspect)命令增加size以及type子命令
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPVK
   path: https://gitee.com/openeuler-competition/summer2021-73
   tutor: 
@@ -639,7 +639,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.74 利用kprobe等工具实现快速定位网络丢包和时延问题的工具
+- name: Summer2021-No.74 利用kprobe等工具实现快速定位网络丢包和时延问题的工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ESBZ
   path: https://gitee.com/openeuler-competition/summer2021-74
   tutor: 
@@ -648,7 +648,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No . 75 统计分析JDK中的Deoptimization模型
+- name: Summer2021-No.75 统计分析JDK中的Deoptimization模型
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ESUL
   path: https://gitee.com/openeuler-competition/summer2021-75
   tutor: 
@@ -666,7 +666,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 77 为 iSulad 添加checkpoint/restore 功能
+- name: Summer2021-No.77 为iSulad添加checkpoint/restore功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GXYN
   path: https://gitee.com/openeuler-competition/summer2021-77
   tutor: 
@@ -720,7 +720,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.83  统计调度系统的性能
+- name: Summer2021-No.83 统计调度系统的性能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HFAV
   path: https://gitee.com/openeuler-competition/summer2021-83
   tutor: 
@@ -1017,7 +1017,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.116 支持 iSula 的软件定义网络仿真器扩展设计
+- name: Summer2021-No.116 支持iSula的软件定义网络仿真器扩展设计
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QBX1
   path: https://gitee.com/openeuler-competition/summer2021-116
   tutor: 
@@ -1026,7 +1026,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.117 基于 iSula 的容器编排系统设计
+- name: Summer2021-No.117 基于iSula的容器编排系统设计
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QC2O
   path: https://gitee.com/openeuler-competition/summer2021-117
   tutor: 
@@ -1044,7 +1044,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.119 Linux Lab 镜像添加 openEuler
+- name: Summer2021-No.119 Linux Lab镜像添加openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QG1G
   path: https://gitee.com/openeuler-competition/summer2021-119
   tutor: 
@@ -1080,7 +1080,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.123 调研 Linux桌面测试自动化工具
+- name: Summer2021-No.123 调研Linux桌面测试自动化工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QR6P
   path: https://gitee.com/openeuler-competition/summer2021-123
   tutor: 
@@ -1107,7 +1107,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 126 为openEuler操作系统移植RDMA协议栈OFED
+- name: Summer2021-No.126 为openEuler操作系统移植RDMA协议栈OFED
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R25U
   path: https://gitee.com/openeuler-competition/summer2021-126
   tutor: 
@@ -1116,7 +1116,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 127 用Rust实现DPDK封装
+- name: Summer2021-No.127 用Rust实现DPDK封装
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R27U
   path: https://gitee.com/openeuler-competition/summer2021-127
   tutor: 
@@ -1125,7 +1125,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 128 基于openEuler操作系统搭建开源EDA工具OpenLane自动化处理流程
+- name: Summer2021-No.128 基于openEuler操作系统搭建开源EDA工具OpenLane自动化处理流程
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R2A3
   path: https://gitee.com/openeuler-competition/summer2021-128
   tutor: 
@@ -1134,7 +1134,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 129 UCX通信库的Rust异步封装
+- name: Summer2021-No.129 UCX通信库的Rust异步封装
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R2NR
   path: https://gitee.com/openeuler-competition/summer2021-129
   tutor: 
@@ -1152,7 +1152,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 131 为openEuler操作系统中安装的memcached应用进行性能调优
+- name: Summer2021-No.131 为openEuler操作系统中安装的memcached应用进行性能调优
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6AC
   path: https://gitee.com/openeuler-competition/summer2021-131
   tutor: 
@@ -1161,7 +1161,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 132 为openEuler操作系统中安装的kafka应用进行性能调优
+- name: Summer2021-No.132 为openEuler操作系统中安装的kafka应用进行性能调优
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6BO
   path: https://gitee.com/openeuler-competition/summer2021-132
   tutor: 
@@ -1170,7 +1170,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 133 为openEuler操作系统中安装的TiDB应用进行性能调优
+- name: Summer2021-No.133 为openEuler操作系统中安装的TiDB应用进行性能调优
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6C9
   path: https://gitee.com/openeuler-competition/summer2021-133
   tutor: 
@@ -1179,7 +1179,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 134 为openEuler操作系统中安装的gaussdb应用进行性能调优
+- name: Summer2021-No.134 为openEuler操作系统中安装的gaussdb应用进行性能调优
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6J1
   path: https://gitee.com/openeuler-competition/summer2021-134
   tutor: 
@@ -1188,7 +1188,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 135 识别软件包里的Python脚本与其调用的系统命令和服务
+- name: Summer2021-No.135 识别软件包里的Python脚本与其调用的系统命令和服务
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R99W
   path: https://gitee.com/openeuler-competition/summer2021-135
   tutor: 
@@ -1197,7 +1197,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 136 识别软件包里的Shell脚本与其调用的系统命令和服务
+- name: Summer2021-No.136 识别软件包里的Shell脚本与其调用的系统命令和服务
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R9IQ
   path: https://gitee.com/openeuler-competition/summer2021-136
   tutor: 
@@ -1224,7 +1224,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.139  DPDK，SPDK 用户态驱动开发和兼容性测试用例补充
+- name: Summer2021-No.139 DPDK，SPDK用户态驱动开发和兼容性测试用例补充
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RD4W
   path: https://gitee.com/openeuler-competition/summer2021-139
   tutor: 
@@ -1269,7 +1269,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 144 - 开发Linux 跨进程共享地址空间引擎
+- name: Summer2021-No.144 开发Linux跨进程共享地址空间引擎
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RT2T
   path: https://gitee.com/openeuler-competition/summer2021-144
   tutor: 
@@ -1278,7 +1278,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 145 开源项目开发者组织识别
+- name: Summer2021-No.145 开源项目开发者组织识别
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RTC5
   path: https://gitee.com/openeuler-competition/summer2021-145
   tutor: 
@@ -1287,7 +1287,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 146 开源社区运营活动效果评估
+- name: Summer2021-No.146 开源社区运营活动效果评估
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RU30
   path: https://gitee.com/openeuler-competition/summer2021-146
   tutor: 
@@ -1323,7 +1323,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 150 用Rust为RDMA实现K8S的CNI容器网络接口
+- name: Summer2021-No.150 用Rust为RDMA实现K8S的CNI容器网络接口
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RYUT
   path: https://gitee.com/openeuler-competition/summer2021-150
   tutor: 
@@ -1332,7 +1332,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 151 用Rust实现Serverless无感知存储层
+- name: Summer2021-No.151 用Rust实现Serverless无感知存储层
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S1DY
   path: https://gitee.com/openeuler-competition/summer2021-151
   tutor: 
@@ -1350,7 +1350,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.153 使用 Rust 语言开发 Kubernetes Obejct 解析引擎
+- name: Summer2021-No.153 使用Rust语言开发Kubernetes Obejct解析引擎
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2M3
   path: https://gitee.com/openeuler-competition/summer2021-153
   tutor: 
@@ -1359,7 +1359,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.154 使用 Rust 语言解析 Git 对象
+- name: Summer2021-No.154 使用Rust语言解析Git对象
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2MP
   path: https://gitee.com/openeuler-competition/summer2021-154
   tutor: 
@@ -1368,7 +1368,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 155 使用 Rust 编写一个 DAG 解析引擎
+- name: Summer2021-No.155 使用Rust编写一个DAG解析引擎
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2NP
   path: https://gitee.com/openeuler-competition/summer2021-155
   tutor: 
@@ -1377,7 +1377,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 156 openEuler官网文档友好性提升
+- name: Summer2021-No.156 openEuler官网文档友好性提升
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3SA5W
   path: https://gitee.com/openeuler-competition/summer2021-156
   tutor: 
