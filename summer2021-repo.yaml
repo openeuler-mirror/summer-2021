@@ -1,6 +1,6 @@
 general: Summer_2021_repo
 repositories:
-- name: Summer2021-No.2 -Îª openEuler DDE×ÀÃæÌí¼ÓÏµÍ³×ÊÔ´¼à¿Ø±¨¾¯Ó¦ÓÃ
+- name: Summer2021-No.2 ä¸ºopenEuler DDEæ¡Œé¢æ·»åŠ ç³»ç»Ÿèµ„æºç›‘æ§æŠ¥è­¦åº”ç”¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DHL8
   path: https://gitee.com/openeuler-competition/summer2021-2
   tutor: 
@@ -9,7 +9,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.3  ¿ªÔ´ÏîÄ¿¿ª·¢ÕßÁ÷Ê§Ô¤²â·ÖÎö
+- name: Summer2021-No.3 å¼€æºé¡¹ç›®å¼€å‘è€…æµå¤±é¢„æµ‹åˆ†æ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DO3J
   path: https://gitee.com/openeuler-competition/summer2021-3
   tutor: 
@@ -18,7 +18,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.4 LOOPÉè±¸Ö§³ÖIO²¢ĞĞ»¯
+- name: Summer2021-NO.4 LOOPè®¾å¤‡æ”¯æŒIOå¹¶è¡ŒåŒ–
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUOS
   path: https://gitee.com/openeuler-competition/summer2021-4
   tutor: 
@@ -27,7 +27,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.5 Îª openEulerÌá¹©OpenStack SwiftÈí¼ş°ü
+- name: Summer2021-No.5 ä¸º openEuleræä¾›OpenStack Swiftè½¯ä»¶åŒ…
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUTE
   path: https://gitee.com/openeuler-competition/summer2021-5
   tutor: 
@@ -36,7 +36,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.6 ½«MindSpore 1.2.0°æ±¾ÒıÈëopenEuler
+- name: Summer2021-No.6 å°†MindSpore 1.2.0ç‰ˆæœ¬å¼•å…¥openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUTG
   path: https://gitee.com/openeuler-competition/summer2021-6
   tutor: 
@@ -45,7 +45,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.7 ½«Hadoop 3.3.0°æ±¾ÒıÈëopenEuler
+- name: Summer2021-No.7 å°†Hadoop 3.3.0ç‰ˆæœ¬å¼•å…¥openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUUJ
   path: https://gitee.com/openeuler-competition/summer2021-7
   tutor: 
@@ -54,7 +54,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.8 MariaDBÉÏÓÎARM64ÓÅ»¯patch»ØºÏÀÏ°æ±¾
+- name: Summer2021-No.8 MariaDBä¸Šæ¸¸ARM64ä¼˜åŒ–patchå›åˆè€ç‰ˆæœ¬
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUXZ
   path: https://gitee.com/openeuler-competition/summer2021-8
   tutor: 
@@ -63,7 +63,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.9 Îª openEulerÌá¹©OpenStackÈİÆ÷»¯²¿ÊğÄÜÁ¦
+- name: Summer2021-No.9 ä¸º openEuleræä¾›OpenStackå®¹å™¨åŒ–éƒ¨ç½²èƒ½åŠ›
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV1S
   path: https://gitee.com/openeuler-competition/summer2021-9
   tutor: 
@@ -72,7 +72,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.10 ÎªopenEulerÌá¹©ClickHouse rpm°ü
+- name: Summer2021-No.10 ä¸ºopenEuleræä¾›ClickHouse rpmåŒ…
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV25
   path: https://gitee.com/openeuler-competition/summer2021-10
   tutor: 
@@ -81,7 +81,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 11. openEuler¿ª·¢ÕßÓÃ»§»­Ïñ
+- name: Summer2021-No 11. openEulerå¼€å‘è€…ç”¨æˆ·ç”»åƒ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV26
   path: https://gitee.com/openeuler-competition/summer2021-11
   tutor: 
@@ -90,7 +90,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 12. ÎªopenEulerÉçÇøÌá¹©Ò»¸öFAQµÄweb·şÎñ
+- name: Summer2021-No 12. ä¸ºopenEulerç¤¾åŒºæä¾›ä¸€ä¸ªFAQçš„webæœåŠ¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV2B
   path: https://gitee.com/openeuler-competition/summer2021-12
   tutor: 
@@ -99,7 +99,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 13. openEuler°æ±¾Ñİ½øÖĞµÄLicense³åÍ»¼ì²â
+- name: Summer2021-No 13. openEulerç‰ˆæœ¬æ¼”è¿›ä¸­çš„Licenseå†²çªæ£€æµ‹
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E2PG
   path: https://gitee.com/openeuler-competition/summer2021-13
   tutor: 
@@ -108,7 +108,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 14. ¿ª·¢»ùÓÚfreerdp µÄ openEuler rdp×ÀÃæÁ¬½ÓÓ¦ÓÃ
+- name: Summer2021-No 14. å¼€å‘åŸºäºfreerdp çš„ openEuler rdpæ¡Œé¢è¿æ¥åº”ç”¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9AZ
   path: https://gitee.com/openeuler-competition/summer2021-14
   tutor: 
@@ -117,7 +117,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 15. ¿ª·¢iso¿ÌÂ¼DDE×ÀÃæÓ¦ÓÃ
+- name: Summer2021-No 15. å¼€å‘isoåˆ»å½•DDEæ¡Œé¢åº”ç”¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9CG
   path: https://gitee.com/openeuler-competition/summer2021-15
   tutor: 
@@ -126,7 +126,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 16. ¿ª·¢DDE×ÀÃæÉÏ»ùÓÚ rpm µÄÈí¼ş°ü°²×°Æ÷
+- name: Summer2021-No 16. å¼€å‘DDEæ¡Œé¢ä¸ŠåŸºäº rpm çš„è½¯ä»¶åŒ…å®‰è£…å™¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9DN
   path: https://gitee.com/openeuler-competition/summer2021-16
   tutor: 
@@ -135,7 +135,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 17. ÎªopenEulerÉçÇøÊÊÅä¿ªÔ´µÄÑ§Ö®Ë¼ÔÚÏß¿¼ÊÔÏµÍ³
+- name: Summer2021-No 17. ä¸ºopenEulerç¤¾åŒºé€‚é…å¼€æºçš„å­¦ä¹‹æ€åœ¨çº¿è€ƒè¯•ç³»ç»Ÿ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9IY
   path: https://gitee.com/openeuler-competition/summer2021-17
   tutor: 
@@ -144,7 +144,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 18. linuxÄÚºËµÄÎ¬²â¹¤¾ßpage ownerÔöÇ¿
+- name: Summer2021-No 18. linuxå†…æ ¸çš„ç»´æµ‹å·¥å…·page ownerå¢å¼º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9Y8
   path: https://gitee.com/openeuler-competition/summer2021-18
   tutor: 
@@ -153,7 +153,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 19 Ê÷İ®ÅÉ, ÒÆ¶¯ÖÕ¶ËµÈ×ÊÔ´ÊÜÏŞ³¡¾°KSMĞÔÄÜÓÅ»¯
+- name: Summer2021-No. 19 æ ‘è“æ´¾, ç§»åŠ¨ç»ˆç«¯ç­‰èµ„æºå—é™åœºæ™¯KSMæ€§èƒ½ä¼˜åŒ–
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EASJ
   path: https://gitee.com/openeuler-competition/summer2021-19
   tutor: 
@@ -162,7 +162,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.20 pud/pmd-level mremapÌØĞÔ»ØºÏ²¢Ö§³Örisc-v¼Ü¹¹
+- name: Summer2021-No.20 pud/pmd-level mremapç‰¹æ€§å›åˆå¹¶æ”¯æŒrisc-væ¶æ„
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EASR
   path: https://gitee.com/openeuler-competition/summer2021-20
   tutor: 
@@ -171,7 +171,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 21 RISC-V Õ»»ØËİÔöÇ¿
+- name: Summer2021-No. 21 RISC-V æ ˆå›æº¯å¢å¼º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EATA
   path: https://gitee.com/openeuler-competition/summer2021-21
   tutor: 
@@ -180,7 +180,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 23. ÊµÏÖRISCV¼Ü¹¹ÏÂÖ§³Öqspinlock
+- name: Summer2021-No 23. å®ç°RISCVæ¶æ„ä¸‹æ”¯æŒqspinlock
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EAV7
   path: https://gitee.com/openeuler-competition/summer2021-23
   tutor: 
@@ -189,7 +189,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 24. »ùÓÚ Linux Lab ´î½¨ openEuler ÄÚºË¿ª·¢»·¾³
+- name: Summer2021-No 24. åŸºäº Linux Lab æ­å»º openEuler å†…æ ¸å¼€å‘ç¯å¢ƒ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSE
   path: https://gitee.com/openeuler-competition/summer2021-24
   tutor: 
@@ -198,7 +198,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 25.  »ùÓÚ openEuler kernel ³öÒ»¸öÊµÊ±ÄÚºË£¬²¢ÆÀ¹ÀÊµÊ±ĞÔ
+- name: Summer2021-No 25.  åŸºäº openEuler kernel å‡ºä¸€ä¸ªå®æ—¶å†…æ ¸ï¼Œå¹¶è¯„ä¼°å®æ—¶æ€§
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSK
   path: https://gitee.com/openeuler-competition/summer2021-25
   tutor: 
@@ -207,7 +207,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 26. ÓÅ»¯ openEuler ÄÚºËÆô¶¯Ê±¼ä(ÖØÆôÊ±¼ä)
+- name: Summer2021-No 26. ä¼˜åŒ– openEuler å†…æ ¸å¯åŠ¨æ—¶é—´(é‡å¯æ—¶é—´)
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSW
   path: https://gitee.com/openeuler-competition/summer2021-26
   tutor: 
@@ -216,7 +216,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 27.  ÓÅ»¯ Linux ÏµÍ³µÄ CPU Õ¼ÓÃÊ±¼äÍ³¼Æ
+- name: Summer2021-No 27.  ä¼˜åŒ– Linux ç³»ç»Ÿçš„ CPU å ç”¨æ—¶é—´ç»Ÿè®¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBT6
   path: https://gitee.com/openeuler-competition/summer2021-27
   tutor: 
@@ -225,7 +225,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 28. ¸Ä½øµÄJDKµÄintrinsicÌí¼ÓÊÖ¶Î
+- name: Summer2021-No. 28. æ”¹è¿›çš„JDKçš„intrinsicæ·»åŠ æ‰‹æ®µ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ECTQ
   path: https://gitee.com/openeuler-competition/summer2021-28
   tutor: 
@@ -234,7 +234,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.29. Ê¹ÄÜFiles cgroupÏµÍ³Ö§³Ö stat¹¦ÄÜ
+- name: Summer2021-No.29. ä½¿èƒ½Files cgroupç³»ç»Ÿæ”¯æŒ statåŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ECXD
   path: https://gitee.com/openeuler-competition/summer2021-29
   tutor: 
@@ -243,7 +243,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.30 SelinuxÖ§³Ö¶ÀÁ¢¿ØÖÆSocketCANÉè±¸µÄ¶ÁÈ¨ÏŞ
+- name: Summer2021-No.30 Selinuxæ”¯æŒç‹¬ç«‹æ§åˆ¶SocketCANè®¾å¤‡çš„è¯»æƒé™
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ED0I
   path: https://gitee.com/openeuler-competition/summer2021-30
   tutor: 
@@ -252,7 +252,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No31. StratoVirtĞéÄâ»¯Æ½Ì¨Æô¶¯Ê±¼äµÄÓÅ»¯
+- name: Summer2021-No31. StratoVirtè™šæ‹ŸåŒ–å¹³å°å¯åŠ¨æ—¶é—´çš„ä¼˜åŒ–
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDJ4
   path: https://gitee.com/openeuler-competition/summer2021-31
   tutor: 
@@ -261,7 +261,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.32. ÔÚStratoVirtĞéÄâ»¯Æ½Ì¨ÊµÏÖio_uringÌØĞÔ
+- name: Summer2021-No.32. åœ¨StratoVirtè™šæ‹ŸåŒ–å¹³å°å®ç°io_uringç‰¹æ€§
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQ9
   path: https://gitee.com/openeuler-competition/summer2021-32
   tutor: 
@@ -270,7 +270,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No33. ÎªÄÚºËftraceÉè¼ÆÒ»¸öÇáÁ¿¼¶ÖĞ¶Ï´¦Àí¡¢¹ØÖĞ¶Ï¡¢¹ØÇÀÕ¼Ê±³¤¼à²â¹¤¾ß
+- name: Summer2021-No33. ä¸ºå†…æ ¸ftraceè®¾è®¡ä¸€ä¸ªè½»é‡çº§ä¸­æ–­å¤„ç†ã€å…³ä¸­æ–­ã€å…³æŠ¢å æ—¶é•¿ç›‘æµ‹å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQE
   path: https://gitee.com/openeuler-competition/summer2021-33
   tutor: 
@@ -279,7 +279,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No34. ÊµÏÖperf Ö§³ÖIRQ¼à¿Ø
+- name: Summer2021-No34. å®ç°perf æ”¯æŒIRQç›‘æ§
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQR
   path: https://gitee.com/openeuler-competition/summer2021-34
   tutor: 
@@ -288,7 +288,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No35.ÄÚºË²ÈÄÚ´æÎÊÌâ¶¨Î»¸¨ÖúÇı¶¯
+- name: Summer2021-No35.å†…æ ¸è¸©å†…å­˜é—®é¢˜å®šä½è¾…åŠ©é©±åŠ¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDST
   path: https://gitee.com/openeuler-competition/summer2021-35
   tutor: 
@@ -297,7 +297,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No36. ½«AMD ROCm¿ªÔ´Èí¼şÕ»Öğ²½ÒıÈëopenEulerÊµÏÖGPU¼ÓËÙ¼ÆËã
+- name: Summer2021-No36. å°†AMD ROCmå¼€æºè½¯ä»¶æ ˆé€æ­¥å¼•å…¥openEulerå®ç°GPUåŠ é€Ÿè®¡ç®—
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EEN1
   path: https://gitee.com/openeuler-competition/summer2021-36
   tutor: 
@@ -306,7 +306,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.37 ÔÚopeneulerÄÚºËÖĞÒı½ømaple tree£¬ÓÅ»¯vma¹ÜÀí
+- name: Summer2021-NO.37 åœ¨openeulerå†…æ ¸ä¸­å¼•è¿›maple treeï¼Œä¼˜åŒ–vmaç®¡ç†
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFL4
   path: https://gitee.com/openeuler-competition/summer2021-37
   tutor: 
@@ -315,7 +315,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No38. ÓÅ»¯secGear±àÒë¿ò¼Ü
+- name: Summer2021-No38. ä¼˜åŒ–secGearç¼–è¯‘æ¡†æ¶
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFP5
   path: https://gitee.com/openeuler-competition/summer2021-38
   tutor: 
@@ -324,7 +324,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.39 LinuxÄÚºËµÄPELTËã·¨¸Ä½ø
+- name: Summer2021-No.39 Linuxå†…æ ¸çš„PELTç®—æ³•æ”¹è¿›
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFZ1
   path: https://gitee.com/openeuler-competition/summer2021-39
   tutor: 
@@ -333,7 +333,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.40 Í³¼ÆÒ»¸öÄÚºËÄ£¿éÕ¼ÓÃµÄÄÚ´æ
+- name: Summer2021-No.40 ç»Ÿè®¡ä¸€ä¸ªå†…æ ¸æ¨¡å—å ç”¨çš„å†…å­˜
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFZU
   path: https://gitee.com/openeuler-competition/summer2021-40
   tutor: 
@@ -342,7 +342,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.41 ¿ª·¢Ò»¸öÏµÍ³ÄÚ´æÊ¹ÓÃÇé¿öÍ³¼Æ¹¤¾ß
+- name: Summer2021-No.41 å¼€å‘ä¸€ä¸ªç³»ç»Ÿå†…å­˜ä½¿ç”¨æƒ…å†µç»Ÿè®¡å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EG0G
   path: https://gitee.com/openeuler-competition/summer2021-41
   tutor: 
@@ -351,7 +351,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.42 Ö§³ÖÍ¨¹ıftraceÔ­Ê¼Êı¾İ·ÖÎöÏµÍ³ÕûÌåµÄµ÷¶Èlatency
+- name: Summer2021-No.42 æ”¯æŒé€šè¿‡ftraceåŸå§‹æ•°æ®åˆ†æç³»ç»Ÿæ•´ä½“çš„è°ƒåº¦latency
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EG0M
   path: https://gitee.com/openeuler-competition/summer2021-42
   tutor: 
@@ -360,7 +360,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.43 ÔÚLinuxÄÚºËÅúÁ¿Ò³ÉêÇë½Ó¿ÚÖ§³Ö
+- name: Summer2021-No.43 åœ¨Linuxå†…æ ¸æ‰¹é‡é¡µç”³è¯·æ¥å£æ”¯æŒ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EG54
   path: https://gitee.com/openeuler-competition/summer2021-43
   tutor: 
@@ -369,7 +369,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.44 ARM64Æ½Ì¨ÊµÏÖÓ²¼ş³¤Êı¾İ¶Ïµã¹¦ÄÜ
+- name: Summer2021-No.44 ARM64å¹³å°å®ç°ç¡¬ä»¶é•¿æ•°æ®æ–­ç‚¹åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGD2
   path: https://gitee.com/openeuler-competition/summer2021-44
   tutor: 
@@ -378,7 +378,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.45 Ìá¹©Í¨ÓÃµÄÈí¼ş¹ÊÕÏ×¢Èë¹¤¾ß(Provide a generic software fault injection tool)
+- name: Summer2021-No.45 æä¾›é€šç”¨çš„è½¯ä»¶æ•…éšœæ³¨å…¥å·¥å…·(Provide a generic software fault injection tool)
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGGH
   path: https://gitee.com/openeuler-competition/summer2021-45
   tutor: 
@@ -387,7 +387,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No46.Ê¹ÓÃsecGear»úÃÜ¼ÆËã¿ò¼Ü±£»¤opensshµÄÂäÅÌ¿ÚÁî
+- name: Summer2021-No46.ä½¿ç”¨secGearæœºå¯†è®¡ç®—æ¡†æ¶ä¿æŠ¤opensshçš„è½ç›˜å£ä»¤
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGZ9
   path: https://gitee.com/openeuler-competition/summer2021-46
   tutor: 
@@ -396,7 +396,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.47 Í¨¹ıCephadmÔÚopenEulerÉÏ²¿ÊğCeph²¢ÍêÕû²âÊÔ¼¯Èº¹¦ÄÜ
+- name: Summer2021-No.47 é€šè¿‡Cephadmåœ¨openEulerä¸Šéƒ¨ç½²Cephå¹¶å®Œæ•´æµ‹è¯•é›†ç¾¤åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHBM
   path: https://gitee.com/openeuler-competition/summer2021-47
   tutor: 
@@ -405,7 +405,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.48 ÊµÏÖÒ»¸öÀàËÆ¿ªÔ´ROWµÄIOµ÷¶ÈÆ÷
+- name: Summer2021-No.48 å®ç°ä¸€ä¸ªç±»ä¼¼å¼€æºROWçš„IOè°ƒåº¦å™¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCH
   path: https://gitee.com/openeuler-competition/summer2021-48
   tutor: 
@@ -414,7 +414,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.49 ÊµÏÖopenEulerÆ½Ì¨ÏÂ»ùÓÚsecGear¿ò¼ÜµÄÉí·İÈÏÖ¤¹¦ÄÜ
+- name: Summer2021-NO.49 å®ç°openEulerå¹³å°ä¸‹åŸºäºsecGearæ¡†æ¶çš„èº«ä»½è®¤è¯åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCT
   path: https://gitee.com/openeuler-competition/summer2021-49
   tutor: 
@@ -423,7 +423,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.50 openEulerÆ½Ì¨ÏÂ»ùÓÚsecGear¿ò¼ÜµÄÊı×Ö×÷Æ·È¨Êô±£»¤
+- name: Summer2021-NO.50 openEulerå¹³å°ä¸‹åŸºäºsecGearæ¡†æ¶çš„æ•°å­—ä½œå“æƒå±ä¿æŠ¤
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCY
   path: https://gitee.com/openeuler-competition/summer2021-50
   tutor: 
@@ -432,7 +432,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.51 isula-build¾µÏñ¹¹½¨¹¤¾ßÖ§³Ö¿ç¼Ü¹¹¾µÏñ¹¹½¨
+- name: Summer2021-NO.51 isula-buildé•œåƒæ„å»ºå·¥å…·æ”¯æŒè·¨æ¶æ„é•œåƒæ„å»º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EI2P
   path: https://gitee.com/openeuler-competition/summer2021-51
   tutor: 
@@ -441,7 +441,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.52 ½«per-memcg LRU lock ÌØĞÔÒÆÖ²µ½openEulerµÄÄÚºËÉÏ
+- name: Summer2021-NO.52 å°†per-memcg LRU lock ç‰¹æ€§ç§»æ¤åˆ°openEulerçš„å†…æ ¸ä¸Š
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIE3
   path: https://gitee.com/openeuler-competition/summer2021-52
   tutor: 
@@ -450,7 +450,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No53 ÎªLinuxÄÚºËÑ°ÕÒ¸ü¶àµÄ²¹¶¡ĞŞ¸Ä·¶Ê½
+- name: Summer2021-No53 ä¸ºLinuxå†…æ ¸å¯»æ‰¾æ›´å¤šçš„è¡¥ä¸ä¿®æ”¹èŒƒå¼
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIJ1
   path: https://gitee.com/openeuler-competition/summer2021-53
   tutor: 
@@ -459,7 +459,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 54. ¿ª·¢LinuxÄÚºË½á¹¹Ìå¹ØÁª¹ØÏµ·ÖÎö¹¤¾ß
+- name: Summer2021-No 54. å¼€å‘Linuxå†…æ ¸ç»“æ„ä½“å…³è”å…³ç³»åˆ†æå·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIK7
   path: https://gitee.com/openeuler-competition/summer2021-54
   tutor: 
@@ -468,7 +468,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.55 »ùÓÚopenEulerµÄ5.10ÄÚºËÊµÏÖ¶ÔÏµÍ³page cacheÏŞÖÆ
+- name: Summer2021-NO.55 åŸºäºopenEulerçš„5.10å†…æ ¸å®ç°å¯¹ç³»ç»Ÿpage cacheé™åˆ¶
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIMT
   path: https://gitee.com/openeuler-competition/summer2021-55
   tutor: 
@@ -477,7 +477,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 56 ÓÅ»¯LinuxÄÚºËÖĞµÄ¸´ÔÓÍ·ÎÄ¼şÒÀÀµ
+- name: Summer2021-No 56 ä¼˜åŒ–Linuxå†…æ ¸ä¸­çš„å¤æ‚å¤´æ–‡ä»¶ä¾èµ–
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIOX
   path: https://gitee.com/openeuler-competition/summer2021-56
   tutor: 
@@ -486,7 +486,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No 57. erofsÎÄ¼şÏµÍ³µÄ dump ¹¤¾ß ¿ª·¢
+- name: Summer2021-No 57. erofsæ–‡ä»¶ç³»ç»Ÿçš„ dump å·¥å…· å¼€å‘
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIRF
   path: https://gitee.com/openeuler-competition/summer2021-57
   tutor: 
@@ -495,7 +495,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.58 ÊµÏÖLinux memory cgroup ×ÓÏµÍ³µÄË®Ïß·Ö¼¶¹¦ÄÜ
+- name: Summer2021-No.58 å®ç°Linux memory cgroup å­ç³»ç»Ÿçš„æ°´çº¿åˆ†çº§åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJ05
   path: https://gitee.com/openeuler-competition/summer2021-58
   tutor: 
@@ -504,7 +504,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.59 »ùÓÚsecGear»úÃÜ¼ÆËã¿ò¼ÜÊµÏÖÓÃ»§ĞÅÏ¢±í±£»¤Óë¡°Ò»´ÎÒ»ÃÜ¡±
+- name: Summer2021-NO.59 åŸºäºsecGearæœºå¯†è®¡ç®—æ¡†æ¶å®ç°ç”¨æˆ·ä¿¡æ¯è¡¨ä¿æŠ¤ä¸â€œä¸€æ¬¡ä¸€å¯†â€
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJ8Q
   path: https://gitee.com/openeuler-competition/summer2021-59
   tutor: 
@@ -513,7 +513,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO60 ½«Data Access Monitor DAMONÌØĞÔÒÆÖ²µ½openEulerÄÚºË
+- name: Summer2021-NO60 å°†Data Access Monitor DAMONç‰¹æ€§ç§»æ¤åˆ°openEulerå†…æ ¸
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJPN
   path: https://gitee.com/openeuler-competition/summer2021-60
   tutor: 
@@ -522,7 +522,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.61 ÊµÏÖmemory cgroup×ÓÏµÍ³OOMÓÅÏÈ¼¶µÄ¹¦ÄÜ
+- name: Summer2021-No.61 å®ç°memory cgroupå­ç³»ç»ŸOOMä¼˜å…ˆçº§çš„åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EL9X
   path: https://gitee.com/openeuler-competition/summer2021-61
   tutor: 
@@ -531,7 +531,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.62 ÊµÏÖUBI²¢·¢É¨Ãè¼ÓËÙattach¹ı³Ì
+- name: Summer2021-No.62 å®ç°UBIå¹¶å‘æ‰«æåŠ é€Ÿattachè¿‡ç¨‹
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EM3I
   path: https://gitee.com/openeuler-competition/summer2021-62
   tutor: 
@@ -540,7 +540,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.63 openEuler»ù´¡¾µÏñÓÅ»¯
+- name: Summer2021-No.63 openEuleråŸºç¡€é•œåƒä¼˜åŒ–
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EM49
   path: https://gitee.com/openeuler-competition/summer2021-63
   tutor: 
@@ -549,7 +549,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.64 Éè¼ÆÒ»Ì×Arm64/RISCVÄÚºË´úÂë·ÖÎö¹¤¾ß
+- name: Summer2021-NO.64 è®¾è®¡ä¸€å¥—Arm64/RISCVå†…æ ¸ä»£ç åˆ†æå·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EMAO
   path: https://gitee.com/openeuler-competition/summer2021-64
   tutor: 
@@ -558,7 +558,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.65  »ùÓÚX86Æ½Ì¨³¬Ïß³ÌÌáÉıÏµÍ³ĞÔÄÜ
+- name: Summer2021-No.65  åŸºäºX86å¹³å°è¶…çº¿ç¨‹æå‡ç³»ç»Ÿæ€§èƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EMKO
   path: https://gitee.com/openeuler-competition/summer2021-65
   tutor: 
@@ -567,7 +567,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.66 Ìá¹©openEulerÔÆÔ­Éú»ù´¡¾µÏñ¼¯
+- name: Summer2021-No.66 æä¾›openEuleräº‘åŸç”ŸåŸºç¡€é•œåƒé›†
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EN2R
   path: https://gitee.com/openeuler-competition/summer2021-66
   tutor: 
@@ -576,7 +576,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.67 ÊµÏÖÈÕÖ¾ÎÄ¼şÏµÍ³xfs Ö§³Ö subpage dirty
+- name: Summer2021-NO.67 å®ç°æ—¥å¿—æ–‡ä»¶ç³»ç»Ÿxfs æ”¯æŒ subpage dirty
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ENI6
   path: https://gitee.com/openeuler-competition/summer2021-67
   tutor: 
@@ -585,7 +585,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 68 ÊµÏÖisula-build Ö§³Ö¶à´æ´¢Çı¶¯
+- name: Summer2021-No. 68 å®ç°isula-build æ”¯æŒå¤šå­˜å‚¨é©±åŠ¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EP36
   path: https://gitee.com/openeuler-competition/summer2021-68
   tutor: 
@@ -594,7 +594,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 69 Îª isula-build ÊµÏÖ export ½Ó¿Ú£º½«¾µÏñµ¼³öÎª rootfs
+- name: Summer2021-No. 69 ä¸º isula-build å®ç° export æ¥å£ï¼šå°†é•œåƒå¯¼å‡ºä¸º rootfs
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EP9C
   path: https://gitee.com/openeuler-competition/summer2021-69
   tutor: 
@@ -603,7 +603,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 70 Îª iSulad Éè¼Æ²¢¿ª·¢ĞÔÄÜ²âÊÔ¿ò¼Ü
+- name: Summer2021-No. 70 ä¸º iSulad è®¾è®¡å¹¶å¼€å‘æ€§èƒ½æµ‹è¯•æ¡†æ¶
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAA
   path: https://gitee.com/openeuler-competition/summer2021-70
   tutor: 
@@ -612,7 +612,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 71 Îª iSulad ¾µÏñÏÂÔØ¹ı³ÌÌí¼Ó½ø¶ÈÌõÏÔÊ¾
+- name: Summer2021-No. 71 ä¸º iSulad é•œåƒä¸‹è½½è¿‡ç¨‹æ·»åŠ è¿›åº¦æ¡æ˜¾ç¤º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAO
   path: https://gitee.com/openeuler-competition/summer2021-71
   tutor: 
@@ -621,7 +621,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 72 Îª iSulad ´´½¨ÈİÆ÷ÃüÁîÔö¼ÓUser namespaceµÄÄÜÁ¦
+- name: Summer2021-No. 72 ä¸º iSulad åˆ›å»ºå®¹å™¨å‘½ä»¤å¢åŠ User namespaceçš„èƒ½åŠ›
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAT
   path: https://gitee.com/openeuler-competition/summer2021-72
   tutor: 
@@ -630,7 +630,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 73 Îª iSulad µÄ²éÑ¯(inspect)ÃüÁîÔö¼Ósize ÒÔ¼° type ×ÓÃüÁî
+- name: Summer2021-No. 73 ä¸º iSulad çš„æŸ¥è¯¢(inspect)å‘½ä»¤å¢åŠ size ä»¥åŠ type å­å‘½ä»¤
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPVK
   path: https://gitee.com/openeuler-competition/summer2021-73
   tutor: 
@@ -639,7 +639,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-NO.74 ÀûÓÃkprobeµÈ¹¤¾ßÊµÏÖ¿ìËÙ¶¨Î»ÍøÂç¶ª°üºÍÊ±ÑÓÎÊÌâµÄ¹¤¾ß
+- name: Summer2021-NO.74 åˆ©ç”¨kprobeç­‰å·¥å…·å®ç°å¿«é€Ÿå®šä½ç½‘ç»œä¸¢åŒ…å’Œæ—¶å»¶é—®é¢˜çš„å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ESBZ
   path: https://gitee.com/openeuler-competition/summer2021-74
   tutor: 
@@ -648,7 +648,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No . 75 Í³¼Æ·ÖÎöJDKÖĞµÄDeoptimizationÄ£ĞÍ
+- name: Summer2021-No . 75 ç»Ÿè®¡åˆ†æJDKä¸­çš„Deoptimizationæ¨¡å‹
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ESUL
   path: https://gitee.com/openeuler-competition/summer2021-75
   tutor: 
@@ -657,7 +657,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.76 ¿ª·¢IOÈÈ¶ÈÍ³¼ÆµÄ¿ÉÊÓ»¯¹¤¾ß
+- name: Summer2021-No.76 å¼€å‘IOçƒ­åº¦ç»Ÿè®¡çš„å¯è§†åŒ–å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GX7M
   path: https://gitee.com/openeuler-competition/summer2021-76
   tutor: 
@@ -666,7 +666,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 77 Îª iSulad Ìí¼Ócheckpoint/restore ¹¦ÄÜ
+- name: Summer2021-No. 77 ä¸º iSulad æ·»åŠ checkpoint/restore åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GXYN
   path: https://gitee.com/openeuler-competition/summer2021-77
   tutor: 
@@ -675,7 +675,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.78 Rust-usimdÏîÄ¿½¨Éè
+- name: Summer2021-No.78 Rust-usimdé¡¹ç›®å»ºè®¾
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GYYE
   path: https://gitee.com/openeuler-competition/summer2021-78
   tutor: 
@@ -684,7 +684,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.79 ¿ª·¢ÍêÉÆRustÉçÇøÖĞµÄ¶ÈÁ¿¹¤¾ß
+- name: Summer2021-No.79 å¼€å‘å®Œå–„Rustç¤¾åŒºä¸­çš„åº¦é‡å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GZRY
   path: https://gitee.com/openeuler-competition/summer2021-79
   tutor: 
@@ -693,7 +693,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.80 ¿ª·¢ÍêÉÆRustÉçÇøÖĞµÄ´úÂë¹æ·¶¼ì²é¹¤¾ß
+- name: Summer2021-No.80 å¼€å‘å®Œå–„Rustç¤¾åŒºä¸­çš„ä»£ç è§„èŒƒæ£€æŸ¥å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3H0K2
   path: https://gitee.com/openeuler-competition/summer2021-80
   tutor: 
@@ -702,7 +702,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.81 ½«¸´¹ÅÓÎÏ·»úÄ£ÄâÆ÷RetroPieÒÆÖ²µ½Ê÷İ®ÅÉopenEulerÆ½Ì¨ÉÏ
+- name: Summer2021-No.81 å°†å¤å¤æ¸¸æˆæœºæ¨¡æ‹Ÿå™¨RetroPieç§»æ¤åˆ°æ ‘è“æ´¾openEulerå¹³å°ä¸Š
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3H654
   path: https://gitee.com/openeuler-competition/summer2021-81
   tutor: 
@@ -711,7 +711,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.82 linuxÏµÍ³ÊµÏÖdirect-thread-switchÇáÁ¿¼¶Ïß³ÌÇĞ»»
+- name: Summer2021-No.82 linuxç³»ç»Ÿå®ç°direct-thread-switchè½»é‡çº§çº¿ç¨‹åˆ‡æ¢
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HCFU
   path: https://gitee.com/openeuler-competition/summer2021-82
   tutor: 
@@ -720,7 +720,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.83  Í³¼Æµ÷¶ÈÏµÍ³µÄĞÔÄÜ
+- name: Summer2021-No.83  ç»Ÿè®¡è°ƒåº¦ç³»ç»Ÿçš„æ€§èƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HFAV
   path: https://gitee.com/openeuler-competition/summer2021-83
   tutor: 
@@ -729,7 +729,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.84 ¿ª·¢Rust crates°ü²Ö¿â²¡¶¾É¨Ãè¹¦ÄÜ
+- name: Summer2021-No.84 å¼€å‘Rust cratesåŒ…ä»“åº“ç—…æ¯’æ‰«æåŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HG1K
   path: https://gitee.com/openeuler-competition/summer2021-84
   tutor: 
@@ -738,7 +738,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.85 openEulerÒì³£ĞÅºÅ¼à²â
+- name: Summer2021-No.85 openEulerå¼‚å¸¸ä¿¡å·ç›‘æµ‹
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHH2
   path: https://gitee.com/openeuler-competition/summer2021-85
   tutor: 
@@ -747,7 +747,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.86 ext4ÎÄ¼şÏµÍ³Ö»¶Á¹ÊÕÏ¸æ¾¯¼à²â
+- name: Summer2021-No.86 ext4æ–‡ä»¶ç³»ç»Ÿåªè¯»æ•…éšœå‘Šè­¦ç›‘æµ‹
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHJB
   path: https://gitee.com/openeuler-competition/summer2021-86
   tutor: 
@@ -756,7 +756,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.87 BPFÊµÏÖPACKET_MMAPÏÂµÄCANÊı¾İ¹ıÂËÆ÷
+- name: Summer2021-No.87 BPFå®ç°PACKET_MMAPä¸‹çš„CANæ•°æ®è¿‡æ»¤å™¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHNT
   path: https://gitee.com/openeuler-competition/summer2021-87
   tutor: 
@@ -765,7 +765,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.88 Ó²ÅÌI/OÊ±ÑÓÉÏÉı¼à²â
+- name: Summer2021-No.88 ç¡¬ç›˜I/Oæ—¶å»¶ä¸Šå‡ç›‘æµ‹
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHOT
   path: https://gitee.com/openeuler-competition/summer2021-88
   tutor: 
@@ -774,7 +774,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.89 openeulerÖ§³ÖKubeEdge±ßÔµ²àÔÆÔ­Éú²¿Êğ
+- name: Summer2021-No.89 openeuleræ”¯æŒKubeEdgeè¾¹ç¼˜ä¾§äº‘åŸç”Ÿéƒ¨ç½²
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HO0Q
   path: https://gitee.com/openeuler-competition/summer2021-89
   tutor: 
@@ -783,7 +783,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.90 ÎªÊ÷İ®ÅÉopenEuler²Ù×÷ÏµÍ³Ìí¼ÓÇáÁ¿¼¶×ÀÃæ»·¾³
+- name: Summer2021-No.90 ä¸ºæ ‘è“æ´¾openEuleræ“ä½œç³»ç»Ÿæ·»åŠ è½»é‡çº§æ¡Œé¢ç¯å¢ƒ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HRKG
   path: https://gitee.com/openeuler-competition/summer2021-90
   tutor: 
@@ -792,7 +792,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.91 ÎªopenEulerÌí¼ÓVolcanoÈí¼ş°üÔöÇ¿¼¯Èºµ÷¶ÈÄÜÁ¦
+- name: Summer2021-No.91 ä¸ºopenEuleræ·»åŠ Volcanoè½¯ä»¶åŒ…å¢å¼ºé›†ç¾¤è°ƒåº¦èƒ½åŠ›
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HYAP
   path: https://gitee.com/openeuler-competition/summer2021-91
   tutor: 
@@ -801,7 +801,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.92 ÊµÏÖÒ»¸öĞÂµÄµ÷¶ÈÀà£¬½ÏCFSÈÎÎñ¾ßÓĞ¸ü¸ßµÄÇÀÕ¼ÓÅÏÈĞÔ£¬½ÏRTÈÎÎñ¾ßÓĞ¹«Æ½ĞÔ
+- name: Summer2021-No.92 å®ç°ä¸€ä¸ªæ–°çš„è°ƒåº¦ç±»ï¼Œè¾ƒCFSä»»åŠ¡å…·æœ‰æ›´é«˜çš„æŠ¢å ä¼˜å…ˆæ€§ï¼Œè¾ƒRTä»»åŠ¡å…·æœ‰å…¬å¹³æ€§
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HYR2
   path: https://gitee.com/openeuler-competition/summer2021-92
   tutor: 
@@ -810,7 +810,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.93 StratoVirtĞéÄâ»¯Æ½Ì¨ÄÚ´æµ×ÔëÓÅ»¯
+- name: Summer2021-No.93 StratoVirtè™šæ‹ŸåŒ–å¹³å°å†…å­˜åº•å™ªä¼˜åŒ–
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3J1HP
   path: https://gitee.com/openeuler-competition/summer2021-93
   tutor: 
@@ -819,7 +819,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.94 ÔÚopeneulerÉçÇø·õ»¯ÉúÎïĞÅÏ¢µ¥Ï¸°ûÁìÓò¿ªÔ´Ó¦ÓÃÈí¼ş
+- name: Summer2021-No.94 åœ¨openeulerç¤¾åŒºå­µåŒ–ç”Ÿç‰©ä¿¡æ¯å•ç»†èƒé¢†åŸŸå¼€æºåº”ç”¨è½¯ä»¶
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3J85G
   path: https://gitee.com/openeuler-competition/summer2021-94
   tutor: 
@@ -828,7 +828,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.95 ÔÚopeneulerÉçÇø·õ»¯ÉúÎïĞÅÏ¢µ¥Ï¸°ûÁìÓò½»»¥Ê½Êı¾İ·ÖÎöÆ½Ì¨
+- name: Summer2021-No.95 åœ¨openeulerç¤¾åŒºå­µåŒ–ç”Ÿç‰©ä¿¡æ¯å•ç»†èƒé¢†åŸŸäº¤äº’å¼æ•°æ®åˆ†æå¹³å°
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3M2TL
   path: https://gitee.com/openeuler-competition/summer2021-95
   tutor: 
@@ -837,7 +837,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.96 ÔÚopenEulerÏµÍ³ÖĞÌá¹©¿ÉÀ©Õ¹µÄÓ¦ÓÃ¿ÉÊÓ»¯ÅäÖÃÈí¼ş
+- name: Summer2021-No.96 åœ¨openEulerç³»ç»Ÿä¸­æä¾›å¯æ‰©å±•çš„åº”ç”¨å¯è§†åŒ–é…ç½®è½¯ä»¶
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3O5OI
   path: https://gitee.com/openeuler-competition/summer2021-96
   tutor: 
@@ -846,7 +846,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.98 ¿ªÔ´Èí¼ş²âÊÔÆ½Ì¨Compass-CIµÄgit-mirror Ä£¿é¼ÓËÙ
+- name: Summer2021-No.98 å¼€æºè½¯ä»¶æµ‹è¯•å¹³å°Compass-CIçš„git-mirror æ¨¡å—åŠ é€Ÿ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBQI
   path: https://gitee.com/openeuler-competition/summer2021-98
   tutor: 
@@ -855,7 +855,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.99 ÔÚopenEulerµÄUKUI×ÀÃæ»·¾³ÊÊÅä÷è÷ëÓ°Òô
+- name: Summer2021-No.99 åœ¨openEulerçš„UKUIæ¡Œé¢ç¯å¢ƒé€‚é…éº’éºŸå½±éŸ³
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBRF
   path: https://gitee.com/openeuler-competition/summer2021-99
   tutor: 
@@ -864,7 +864,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.100 ÎªopenEulerµÄUKUI×ÀÃæÔö¼Ó»òÊÊÅäÈÕ³Ì¹ÜÀíÓ¦ÓÃ
+- name: Summer2021-No.100 ä¸ºopenEulerçš„UKUIæ¡Œé¢å¢åŠ æˆ–é€‚é…æ—¥ç¨‹ç®¡ç†åº”ç”¨
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBS1
   path: https://gitee.com/openeuler-competition/summer2021-100
   tutor: 
@@ -873,7 +873,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.101 ÔÚopenEulerµÄUKUI×ÀÃæÖĞÔö¼ÓÒ»¿î¿ìËÙÆô¶¯µÄÈí¼ş
+- name: Summer2021-No.101 åœ¨openEulerçš„UKUIæ¡Œé¢ä¸­å¢åŠ ä¸€æ¬¾å¿«é€Ÿå¯åŠ¨çš„è½¯ä»¶
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBSG
   path: https://gitee.com/openeuler-competition/summer2021-101
   tutor: 
@@ -882,7 +882,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.102 ÔÚopenEulerµÄUKUI×ÀÃæ»·¾³ÖĞÔö¼ÓÒ»¿îÈ¡É«¼ÆÈí¼ş 
+- name: Summer2021-No.102 åœ¨openEulerçš„UKUIæ¡Œé¢ç¯å¢ƒä¸­å¢åŠ ä¸€æ¬¾å–è‰²è®¡è½¯ä»¶ 
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBTD
   path: https://gitee.com/openeuler-competition/summer2021-102
   tutor: 
@@ -891,7 +891,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.103 Íê³ÉÔÚÊ÷İ®ÅÉÉÏ²¿Êğ²âÊÔ·şÎñÆ½Ì¨Compass-CI
+- name: Summer2021-No.103 å®Œæˆåœ¨æ ‘è“æ´¾ä¸Šéƒ¨ç½²æµ‹è¯•æœåŠ¡å¹³å°Compass-CI
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBTK
   path: https://gitee.com/openeuler-competition/summer2021-103
   tutor: 
@@ -900,7 +900,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.104 ¿ª·¢openEulerÉçÇøÔ­ÉúµÄÔËÎ¬¹ÜÀíÆ½Ì¨
+- name: Summer2021-No.104 å¼€å‘openEulerç¤¾åŒºåŸç”Ÿçš„è¿ç»´ç®¡ç†å¹³å°
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OCZ3
   path: https://gitee.com/openeuler-competition/summer2021-104
   tutor: 
@@ -909,7 +909,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.105 ¿ª·¢AndroidÏµÍ³ÖĞÖØ¸´Êı¾İÉ¾³ı¼¼ÊõµÄĞÔÄÜ²âÊÔ¹¤¾ß
+- name: Summer2021-No.105 å¼€å‘Androidç³»ç»Ÿä¸­é‡å¤æ•°æ®åˆ é™¤æŠ€æœ¯çš„æ€§èƒ½æµ‹è¯•å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OCZX
   path: https://gitee.com/openeuler-competition/summer2021-105
   tutor: 
@@ -918,7 +918,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.105 StratoVirt-hydropper²âÊÔ¿ò¼ÜÔöÇ¿
+- name: Summer2021-No.105 StratoVirt-hydropperæµ‹è¯•æ¡†æ¶å¢å¼º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OXXZ
   path: https://gitee.com/openeuler-competition/summer2021-105
   tutor: 
@@ -927,7 +927,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.106 vmtopÌí¼Ó´ÅÅÌºÍÍø¿¨io¼à¿Ø¹¦ÄÜ
+- name: Summer2021-No.106 vmtopæ·»åŠ ç£ç›˜å’Œç½‘å¡ioç›‘æ§åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3P0LO
   path: https://gitee.com/openeuler-competition/summer2021-106
   tutor: 
@@ -936,7 +936,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.107 ÓÃ»§Ì¬ÈÈ²¹¶¡¿ò¼Ü£¨libcareplus£©Ïß³Ì±äÁ¿£¨TLS£©ÔöÇ¿
+- name: Summer2021-No.107 ç”¨æˆ·æ€çƒ­è¡¥ä¸æ¡†æ¶ï¼ˆlibcareplusï¼‰çº¿ç¨‹å˜é‡ï¼ˆTLSï¼‰å¢å¼º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRML
   path: https://gitee.com/openeuler-competition/summer2021-107
   tutor: 
@@ -945,7 +945,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.108 ¼ÒÍ¥ÖÇÄÜ°²È«·À·¶Ê¾ÀıÏµÍ³¿ª·¢
+- name: Summer2021-No.108 å®¶åº­æ™ºèƒ½å®‰å…¨é˜²èŒƒç¤ºä¾‹ç³»ç»Ÿå¼€å‘
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRPK
   path: https://gitee.com/openeuler-competition/summer2021-108
   tutor: 
@@ -954,7 +954,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.109 ÓÃ»§Ì¬ÈÈ²¹¶¡¿ò¼Ü£¨libcareplus£©²¹¶¡ÖÆ×÷ÔöÇ¿
+- name: Summer2021-No.109 ç”¨æˆ·æ€çƒ­è¡¥ä¸æ¡†æ¶ï¼ˆlibcareplusï¼‰è¡¥ä¸åˆ¶ä½œå¢å¼º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRQU
   path: https://gitee.com/openeuler-competition/summer2021-109
   tutor: 
@@ -963,7 +963,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.110 ²Ù×÷ÏµÍ³°²È«Â©¶´É¨ÃèÓë±¨¾¯ÏîÄ¿
+- name: Summer2021-No.110 æ“ä½œç³»ç»Ÿå®‰å…¨æ¼æ´æ‰«æä¸æŠ¥è­¦é¡¹ç›®
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRRT
   path: https://gitee.com/openeuler-competition/summer2021-110
   tutor: 
@@ -972,7 +972,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.111 avocado-vt²âÊÔ¿ò¼ÜÔö¼ÓÖ§³ÖStratoVirtµÄjsonÅäÖÃ¹ÜÀíĞéÄâ»ú
+- name: Summer2021-No.111 avocado-vtæµ‹è¯•æ¡†æ¶å¢åŠ æ”¯æŒStratoVirtçš„jsoné…ç½®ç®¡ç†è™šæ‹Ÿæœº
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PS21
   path: https://gitee.com/openeuler-competition/summer2021-111
   tutor: 
@@ -981,7 +981,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.112 qemuÉè±¸fuzz²âÊÔÍêÉÆ
+- name: Summer2021-No.112 qemuè®¾å¤‡fuzzæµ‹è¯•å®Œå–„
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PXE8
   path: https://gitee.com/openeuler-competition/summer2021-112
   tutor: 
@@ -990,7 +990,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.113 ÍêÉÆStratoVirtÔÚx86_64Æ½Ì¨ÉÏµÄRTCÉè±¸Ä£Äâ
+- name: Summer2021-No.113 å®Œå–„StratoVirtåœ¨x86_64å¹³å°ä¸Šçš„RTCè®¾å¤‡æ¨¡æ‹Ÿ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3Q0Q5
   path: https://gitee.com/openeuler-competition/summer2021-113
   tutor: 
@@ -999,7 +999,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.114 Ìí¼ÓStratoVirt¶ÔÖĞ¶Ï¿ØÖÆÆ÷gic-v2µÄÖ§³Ö
+- name: Summer2021-No.114 æ·»åŠ StratoVirtå¯¹ä¸­æ–­æ§åˆ¶å™¨gic-v2çš„æ”¯æŒ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3Q0UV
   path: https://gitee.com/openeuler-competition/summer2021-114
   tutor: 
@@ -1008,7 +1008,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.115 ĞÂÔöstratovirtÖ§³ÖballoonÄÚ´æĞÅÏ¢Í³¼Æ
+- name: Summer2021-No.115 æ–°å¢stratovirtæ”¯æŒballoonå†…å­˜ä¿¡æ¯ç»Ÿè®¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3Q1A8
   path: https://gitee.com/openeuler-competition/summer2021-115
   tutor: 
@@ -1017,7 +1017,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.116 Ö§³Ö iSula µÄÈí¼ş¶¨ÒåÍøÂç·ÂÕæÆ÷À©Õ¹Éè¼Æ
+- name: Summer2021-No.116 æ”¯æŒ iSula çš„è½¯ä»¶å®šä¹‰ç½‘ç»œä»¿çœŸå™¨æ‰©å±•è®¾è®¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QBX1
   path: https://gitee.com/openeuler-competition/summer2021-116
   tutor: 
@@ -1026,7 +1026,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.117 »ùÓÚ iSula µÄÈİÆ÷±àÅÅÏµÍ³Éè¼Æ
+- name: Summer2021-No.117 åŸºäº iSula çš„å®¹å™¨ç¼–æ’ç³»ç»Ÿè®¾è®¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QC2O
   path: https://gitee.com/openeuler-competition/summer2021-117
   tutor: 
@@ -1035,7 +1035,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.118 ÔÚopenEulerÒıÈëELK Stack
+- name: Summer2021-No.118 åœ¨openEulerå¼•å…¥ELK Stack
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QEFQ
   path: https://gitee.com/openeuler-competition/summer2021-118
   tutor: 
@@ -1044,7 +1044,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.119 Linux Lab ¾µÏñÌí¼Ó openEuler
+- name: Summer2021-No.119 Linux Lab é•œåƒæ·»åŠ  openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QG1G
   path: https://gitee.com/openeuler-competition/summer2021-119
   tutor: 
@@ -1053,7 +1053,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.120 ÎªopenEuler¹ÙÍøÌí¼ÓĞŞ¸ÄÎÄ¼şÊµÊ±äÖÈ¾¹¦ÄÜ
+- name: Summer2021-No.120 ä¸ºopenEulerå®˜ç½‘æ·»åŠ ä¿®æ”¹æ–‡ä»¶å®æ—¶æ¸²æŸ“åŠŸèƒ½
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QJWW
   path: https://gitee.com/openeuler-competition/summer2021-120
   tutor: 
@@ -1062,7 +1062,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.121 ½«HarborÒıÈëopenEuler
+- name: Summer2021-No.121 å°†Harborå¼•å…¥openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QL3H
   path: https://gitee.com/openeuler-competition/summer2021-121
   tutor: 
@@ -1071,7 +1071,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.122 ½«NexusÒıÈëopenEuler
+- name: Summer2021-No.122 å°†Nexuså¼•å…¥openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QONP
   path: https://gitee.com/openeuler-competition/summer2021-122
   tutor: 
@@ -1080,7 +1080,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.123 µ÷ÑĞ Linux×ÀÃæ²âÊÔ×Ô¶¯»¯¹¤¾ß
+- name: Summer2021-No.123 è°ƒç ” Linuxæ¡Œé¢æµ‹è¯•è‡ªåŠ¨åŒ–å·¥å…·
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QR6P
   path: https://gitee.com/openeuler-competition/summer2021-123
   tutor: 
@@ -1089,7 +1089,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.124 »ùÓÚmugen²âÊÔ¿ò¼Ü¿ª·¢ÊµÏÖÇ°¶Ë¹ÜÀí£¬ÊµÏÖÈÎÎñ´¥·¢¼°×îÖÕµÄ½á¹ûÕ¹Ê¾
+- name: Summer2021-No.124 åŸºäºmugenæµ‹è¯•æ¡†æ¶å¼€å‘å®ç°å‰ç«¯ç®¡ç†ï¼Œå®ç°ä»»åŠ¡è§¦å‘åŠæœ€ç»ˆçš„ç»“æœå±•ç¤º
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QRI4
   path: https://gitee.com/openeuler-competition/summer2021-124
   tutor: 
@@ -1098,7 +1098,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.125 ¿ªÔ´Èí¼şÔ´ÂëlicenseÎÄ±¾ĞÅÏ¢É¨Ãè¹¤¾ß¿ª·¢
+- name: Summer2021-No.125 å¼€æºè½¯ä»¶æºç licenseæ–‡æœ¬ä¿¡æ¯æ‰«æå·¥å…·å¼€å‘
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R0JW
   path: https://gitee.com/openeuler-competition/summer2021-125
   tutor: 
@@ -1107,7 +1107,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 126 ÎªopenEuler²Ù×÷ÏµÍ³ÒÆÖ²RDMAĞ­ÒéÕ»OFED
+- name: Summer2021-No. 126 ä¸ºopenEuleræ“ä½œç³»ç»Ÿç§»æ¤RDMAåè®®æ ˆOFED
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R25U
   path: https://gitee.com/openeuler-competition/summer2021-126
   tutor: 
@@ -1116,7 +1116,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 127 ÓÃRustÊµÏÖDPDK·â×°
+- name: Summer2021-No. 127 ç”¨Rustå®ç°DPDKå°è£…
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R27U
   path: https://gitee.com/openeuler-competition/summer2021-127
   tutor: 
@@ -1125,7 +1125,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 128 »ùÓÚopenEuler²Ù×÷ÏµÍ³´î½¨¿ªÔ´EDA¹¤¾ßOpenLane×Ô¶¯»¯´¦ÀíÁ÷³Ì
+- name: Summer2021-No. 128 åŸºäºopenEuleræ“ä½œç³»ç»Ÿæ­å»ºå¼€æºEDAå·¥å…·OpenLaneè‡ªåŠ¨åŒ–å¤„ç†æµç¨‹
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R2A3
   path: https://gitee.com/openeuler-competition/summer2021-128
   tutor: 
@@ -1134,7 +1134,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 129 UCXÍ¨ĞÅ¿âµÄRustÒì²½·â×°
+- name: Summer2021-No. 129 UCXé€šä¿¡åº“çš„Rustå¼‚æ­¥å°è£…
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R2NR
   path: https://gitee.com/openeuler-competition/summer2021-129
   tutor: 
@@ -1143,7 +1143,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.130 ½«LFS-10.1-systemdÏîÄ¿½øĞĞopenEulerÊÊÅä
+- name: Summer2021-No.130 å°†LFS-10.1-systemdé¡¹ç›®è¿›è¡ŒopenEuleré€‚é…
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R4EC
   path: https://gitee.com/openeuler-competition/summer2021-130
   tutor: 
@@ -1152,7 +1152,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 131 ÎªopenEuler²Ù×÷ÏµÍ³ÖĞ°²×°µÄmemcachedÓ¦ÓÃ½øĞĞĞÔÄÜµ÷ÓÅ
+- name: Summer2021-No. 131 ä¸ºopenEuleræ“ä½œç³»ç»Ÿä¸­å®‰è£…çš„memcachedåº”ç”¨è¿›è¡Œæ€§èƒ½è°ƒä¼˜
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6AC
   path: https://gitee.com/openeuler-competition/summer2021-131
   tutor: 
@@ -1161,7 +1161,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 132 ÎªopenEuler²Ù×÷ÏµÍ³ÖĞ°²×°µÄkafkaÓ¦ÓÃ½øĞĞĞÔÄÜµ÷ÓÅ
+- name: Summer2021-No. 132 ä¸ºopenEuleræ“ä½œç³»ç»Ÿä¸­å®‰è£…çš„kafkaåº”ç”¨è¿›è¡Œæ€§èƒ½è°ƒä¼˜
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6BO
   path: https://gitee.com/openeuler-competition/summer2021-132
   tutor: 
@@ -1170,7 +1170,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 133 ÎªopenEuler²Ù×÷ÏµÍ³ÖĞ°²×°µÄTiDBÓ¦ÓÃ½øĞĞĞÔÄÜµ÷ÓÅ
+- name: Summer2021-No. 133 ä¸ºopenEuleræ“ä½œç³»ç»Ÿä¸­å®‰è£…çš„TiDBåº”ç”¨è¿›è¡Œæ€§èƒ½è°ƒä¼˜
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6C9
   path: https://gitee.com/openeuler-competition/summer2021-133
   tutor: 
@@ -1179,7 +1179,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 134 ÎªopenEuler²Ù×÷ÏµÍ³ÖĞ°²×°µÄgaussdbÓ¦ÓÃ½øĞĞĞÔÄÜµ÷ÓÅ
+- name: Summer2021-No. 134 ä¸ºopenEuleræ“ä½œç³»ç»Ÿä¸­å®‰è£…çš„gaussdbåº”ç”¨è¿›è¡Œæ€§èƒ½è°ƒä¼˜
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6J1
   path: https://gitee.com/openeuler-competition/summer2021-134
   tutor: 
@@ -1188,7 +1188,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 135 Ê¶±ğÈí¼ş°üÀïµÄPython½Å±¾ÓëÆäµ÷ÓÃµÄÏµÍ³ÃüÁîºÍ·şÎñ
+- name: Summer2021-No. 135 è¯†åˆ«è½¯ä»¶åŒ…é‡Œçš„Pythonè„šæœ¬ä¸å…¶è°ƒç”¨çš„ç³»ç»Ÿå‘½ä»¤å’ŒæœåŠ¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R99W
   path: https://gitee.com/openeuler-competition/summer2021-135
   tutor: 
@@ -1197,7 +1197,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 136 Ê¶±ğÈí¼ş°üÀïµÄShell½Å±¾ÓëÆäµ÷ÓÃµÄÏµÍ³ÃüÁîºÍ·şÎñ
+- name: Summer2021-No. 136 è¯†åˆ«è½¯ä»¶åŒ…é‡Œçš„Shellè„šæœ¬ä¸å…¶è°ƒç”¨çš„ç³»ç»Ÿå‘½ä»¤å’ŒæœåŠ¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R9IQ
   path: https://gitee.com/openeuler-competition/summer2021-136
   tutor: 
@@ -1206,7 +1206,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.137 openEulerÉçÇø¹ÙÍøºÍÎÄµµ¹ÙÍøSEOÓÅ»¯
+- name: Summer2021-No.137 openEulerç¤¾åŒºå®˜ç½‘å’Œæ–‡æ¡£å®˜ç½‘SEOä¼˜åŒ–
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RA23
   path: https://gitee.com/openeuler-competition/summer2021-137
   tutor: 
@@ -1215,7 +1215,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.138 ÖÇÄÜ·ÖÎö¿ÉÖ´ĞĞÎÄ¼şÃüÁîµÄ²îÒì
+- name: Summer2021-No.138 æ™ºèƒ½åˆ†æå¯æ‰§è¡Œæ–‡ä»¶å‘½ä»¤çš„å·®å¼‚
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RC9K
   path: https://gitee.com/openeuler-competition/summer2021-138
   tutor: 
@@ -1224,7 +1224,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.139  DPDK£¬SPDK ÓÃ»§Ì¬Çı¶¯¿ª·¢ºÍ¼æÈİĞÔ²âÊÔÓÃÀı²¹³ä
+- name: Summer2021-No.139  DPDKï¼ŒSPDK ç”¨æˆ·æ€é©±åŠ¨å¼€å‘å’Œå…¼å®¹æ€§æµ‹è¯•ç”¨ä¾‹è¡¥å……
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RD4W
   path: https://gitee.com/openeuler-competition/summer2021-139
   tutor: 
@@ -1233,7 +1233,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.140 »ùÓÚsecGear»úÃÜ¼ÆËã¿ò¼ÜÊµÏÖÈí¼şTPM
+- name: Summer2021-No.140 åŸºäºsecGearæœºå¯†è®¡ç®—æ¡†æ¶å®ç°è½¯ä»¶TPM
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RG4C
   path: https://gitee.com/openeuler-competition/summer2021-140
   tutor: 
@@ -1242,7 +1242,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.141 openEulerÉçÇøÌåÑéµØÍ¼µÄWeb 3DĞ¡ÓÎÏ·¿ª·¢
+- name: Summer2021-No.141 openEulerç¤¾åŒºä½“éªŒåœ°å›¾çš„Web 3Då°æ¸¸æˆå¼€å‘
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RJ5M
   path: https://gitee.com/openeuler-competition/summer2021-141
   tutor: 
@@ -1251,7 +1251,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.142 ½«GrapheneÒıÈëopenEuler£¬²¢ÀûÓÃsecGear¸ÄÔì
+- name: Summer2021-No.142 å°†Grapheneå¼•å…¥openEulerï¼Œå¹¶åˆ©ç”¨secGearæ”¹é€ 
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RMRH
   path: https://gitee.com/openeuler-competition/summer2021-142
   tutor: 
@@ -1260,7 +1260,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.143 ÊÊÅä»ØºÏupstreamÉçÇøqemu 4.2µÄmicrovmµÈFeature
+- name: Summer2021-No.143 é€‚é…å›åˆupstreamç¤¾åŒºqemu 4.2çš„microvmç­‰Feature
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RQXN
   path: https://gitee.com/openeuler-competition/summer2021-143
   tutor: 
@@ -1269,7 +1269,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 144 - ¿ª·¢Linux ¿ç½ø³Ì¹²ÏíµØÖ·¿Õ¼äÒıÇæ
+- name: Summer2021-No. 144 - å¼€å‘Linux è·¨è¿›ç¨‹å…±äº«åœ°å€ç©ºé—´å¼•æ“
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RT2T
   path: https://gitee.com/openeuler-competition/summer2021-144
   tutor: 
@@ -1278,7 +1278,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 145 ¿ªÔ´ÏîÄ¿¿ª·¢Õß×éÖ¯Ê¶±ğ
+- name: Summer2021-No. 145 å¼€æºé¡¹ç›®å¼€å‘è€…ç»„ç»‡è¯†åˆ«
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RTC5
   path: https://gitee.com/openeuler-competition/summer2021-145
   tutor: 
@@ -1287,7 +1287,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 146 ¿ªÔ´ÉçÇøÔËÓª»î¶¯Ğ§¹ûÆÀ¹À
+- name: Summer2021-No. 146 å¼€æºç¤¾åŒºè¿è¥æ´»åŠ¨æ•ˆæœè¯„ä¼°
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RU30
   path: https://gitee.com/openeuler-competition/summer2021-146
   tutor: 
@@ -1296,7 +1296,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.147 ÕĞÄ¼ÔÆÔ­ÉúK8S¼¯Èº¹ÜÀí½â¾ö·½°¸EggoÌåÑé¹Ù
+- name: Summer2021-No.147 æ‹›å‹Ÿäº‘åŸç”ŸK8Sé›†ç¾¤ç®¡ç†è§£å†³æ–¹æ¡ˆEggoä½“éªŒå®˜
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RX06
   path: https://gitee.com/openeuler-competition/summer2021-147
   tutor: 
@@ -1305,7 +1305,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.148 ÊµÏÖEggoµÄkubeadmÄ£Ê½µÄ¿ØÖÆÃæÄ£¿é
+- name: Summer2021-No.148 å®ç°Eggoçš„kubeadmæ¨¡å¼çš„æ§åˆ¶é¢æ¨¡å—
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RXH7
   path: https://gitee.com/openeuler-competition/summer2021-148
   tutor: 
@@ -1314,7 +1314,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.149 ÊµÏÖEggoµÄkubeadmÄ£Ê½µÄ»ù´¡ÉèÊ©ÓëetcdÄ£¿é
+- name: Summer2021-No.149 å®ç°Eggoçš„kubeadmæ¨¡å¼çš„åŸºç¡€è®¾æ–½ä¸etcdæ¨¡å—
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RXO3
   path: https://gitee.com/openeuler-competition/summer2021-149
   tutor: 
@@ -1323,7 +1323,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 150 ÓÃRustÎªRDMAÊµÏÖK8SµÄCNIÈİÆ÷ÍøÂç½Ó¿Ú
+- name: Summer2021-No. 150 ç”¨Rustä¸ºRDMAå®ç°K8Sçš„CNIå®¹å™¨ç½‘ç»œæ¥å£
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RYUT
   path: https://gitee.com/openeuler-competition/summer2021-150
   tutor: 
@@ -1332,7 +1332,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 151 ÓÃRustÊµÏÖServerlessÎŞ¸ĞÖª´æ´¢²ã
+- name: Summer2021-No. 151 ç”¨Rustå®ç°Serverlessæ— æ„ŸçŸ¥å­˜å‚¨å±‚
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S1DY
   path: https://gitee.com/openeuler-competition/summer2021-151
   tutor: 
@@ -1341,7 +1341,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.152 ÖÆ×÷openEuler×ÀÃæ°æ·¢ĞĞ°æ
+- name: Summer2021-No.152 åˆ¶ä½œopenEuleræ¡Œé¢ç‰ˆå‘è¡Œç‰ˆ
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S1KF
   path: https://gitee.com/openeuler-competition/summer2021-152
   tutor: 
@@ -1350,7 +1350,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.153 Ê¹ÓÃ Rust ÓïÑÔ¿ª·¢ Kubernetes Obejct ½âÎöÒıÇæ
+- name: Summer2021-No.153 ä½¿ç”¨ Rust è¯­è¨€å¼€å‘ Kubernetes Obejct è§£æå¼•æ“
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2M3
   path: https://gitee.com/openeuler-competition/summer2021-153
   tutor: 
@@ -1359,7 +1359,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.154 Ê¹ÓÃ Rust ÓïÑÔ½âÎö Git ¶ÔÏó
+- name: Summer2021-No.154 ä½¿ç”¨ Rust è¯­è¨€è§£æ Git å¯¹è±¡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2MP
   path: https://gitee.com/openeuler-competition/summer2021-154
   tutor: 
@@ -1368,7 +1368,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 155 Ê¹ÓÃ Rust ±àĞ´Ò»¸ö DAG ½âÎöÒıÇæ
+- name: Summer2021-No. 155 ä½¿ç”¨ Rust ç¼–å†™ä¸€ä¸ª DAG è§£æå¼•æ“
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2NP
   path: https://gitee.com/openeuler-competition/summer2021-155
   tutor: 
@@ -1377,7 +1377,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No. 156 openEuler¹ÙÍøÎÄµµÓÑºÃĞÔÌáÉı
+- name: Summer2021-No. 156 openEulerå®˜ç½‘æ–‡æ¡£å‹å¥½æ€§æå‡
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3SA5W
   path: https://gitee.com/openeuler-competition/summer2021-156
   tutor: 
