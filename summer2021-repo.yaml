@@ -157,7 +157,7 @@ repositories:
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSE
   path: https://gitee.com/openeuler-competition/summer2021-24
   tutor: 
-  - giteeid: gatieme
+  - giteeid: 
     email: 
   member:
   - giteeid: LeoJhonSong
@@ -842,7 +842,7 @@ repositories:
   path: https://gitee.com/openeuler-competition/summer2021-119
   tutor: 
   - giteeid: gatieme
-    email: xiexiuqi@huawei.com
+    email: 
   member:
   - giteeid: crablet-lab
     email: 
@@ -860,7 +860,7 @@ repositories:
   path: https://gitee.com/openeuler-competition/summer2021-121
   tutor: 
   - giteeid: viikei
-    email: liuganga@uniontech.com
+    email: 
   member:
   - giteeid: konglidong
     email: 
@@ -904,7 +904,7 @@ repositories:
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R25U
   path: https://gitee.com/openeuler-competition/summer2021-126
   tutor: 
-  - giteeid: pwang7
+  - giteeid: 
     email: pan.zheng@datenlord.io
   member:
   - giteeid: 
@@ -913,7 +913,7 @@ repositories:
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R27U
   path: https://gitee.com/openeuler-competition/summer2021-127
   tutor: 
-  - giteeid: pwang7
+  - giteeid: 
     email: pan.zheng@datenlord.io
   member:
   - giteeid: cxx1234
