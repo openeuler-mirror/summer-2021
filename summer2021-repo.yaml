@@ -198,7 +198,7 @@ repositories:
   member:
   - giteeid: lijiamu233
     email: 
-- name: Summer2021-No.33 为内核ftrace设计一个轻量级中断处理、关中断、关抢占时长监测工具
+- name: Summer2021-No.33 为内核ftrace设计一个轻量级中断处理，关中断，关抢占时长监测工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQE
   path: https://gitee.com/openeuler-competition/summer2021-33
   tutor: 
@@ -405,7 +405,7 @@ repositories:
   member:
   - giteeid: super101
     email: 
-- name: Summer2021-No.59 基于secGear机密计算框架实现用户信息表保护与“一次一密”
+- name: Summer2021-No.59 基于secGear机密计算框架实现用户信息表保护与一次一密
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJ8Q
   path: https://gitee.com/openeuler-competition/summer2021-59
   tutor: 
@@ -441,7 +441,7 @@ repositories:
   member:
   - giteeid: wojibayang
     email: 
-- name: Summer2021-No.64 设计一套Arm64/RISCV内核代码分析工具
+- name: Summer2021-No.64 设计一套Arm64，RISCV内核代码分析工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EMAO
   path: https://gitee.com/openeuler-competition/summer2021-64
   tutor: 
@@ -513,7 +513,7 @@ repositories:
   member:
   - giteeid: hesunan
     email: 
-- name: Summer2021-No.77 为iSulad添加checkpoint/restore功能
+- name: Summer2021-No.77 为iSulad添加checkpoint，restore功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GXYN
   path: https://gitee.com/openeuler-competition/summer2021-77
   tutor: 
@@ -585,7 +585,7 @@ repositories:
   member:
   - giteeid: yu998
     email: 
-- name: Summer2021-No.88 硬盘I/O时延上升监测
+- name: Summer2021-No.88 硬盘IO时延上升监测
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHOT
   path: https://gitee.com/openeuler-competition/summer2021-88
   tutor: 
