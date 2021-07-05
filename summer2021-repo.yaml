@@ -162,7 +162,7 @@ repositories:
   member:
   - giteeid: LeoJhonSong
     email: 
-- name: Summer2021-No.26 优化openEuler内核启动时间(重启时间)
+- name: Summer2021-No.26 优化openEuler内核启动时间（重启时间）
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSW
   path: https://gitee.com/openeuler-competition/summer2021-26
   tutor: 
@@ -288,7 +288,7 @@ repositories:
   member:
   - giteeid: 
     email: 
-- name: Summer2021-No.45 提供通用的软件故障注入工具(Provide a generic software fault injection tool)
+- name: Summer2021-No.45 提供通用的软件故障注入工具（Provide a generic software fault injection tool）
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGGH
   path: https://gitee.com/openeuler-competition/summer2021-45
   tutor: 
@@ -486,7 +486,7 @@ repositories:
   member:
   - giteeid: HumbleHunger
     email: 
-- name: Summer2021-No.73 为iSulad的查询(inspect)命令增加size以及type子命令
+- name: Summer2021-No.73 为iSulad的查询（inspec）命令增加size以及type子命令
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPVK
   path: https://gitee.com/openeuler-competition/summer2021-73
   tutor: 
