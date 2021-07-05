@@ -68,6 +68,19 @@ def check_and_create_repos(org, url, parameters, data, repo_path):
             logging.error(response.text)
             return False
         logging.info('Create repo {} successfully'.format(repo_name))
+        reviewer_conf_url = 'https://gitee.com/api/v5/repos/{}/{}/reviewer'.format(org, repo_name)
+        payload = {
+            'access_token': access_token,
+            'assignees': '',
+            'testers': '',
+            'assignees_number': 0,
+            'testers_number': 0
+        }
+        r = requests.put(reviewer_conf_url, data=payload)
+        if r.status_code != 200:
+            logging.error('Fail to set assignees and testers')
+            logging.error(r.text)
+            sys.exit(1)
         add_tutor(org, data, access_token)
         add_member(org, data, access_token)
     else:
