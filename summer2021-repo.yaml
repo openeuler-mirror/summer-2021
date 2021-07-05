@@ -7,7 +7,7 @@ repositories:
   - giteeid: weidongkl
     email: weidong@uniontech.com
   member:
-  - giteeid: 
+  - giteeid: luckygirlecho
     email: 
 - name: Summer2021-No.3 开源项目开发者流失预测分析
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DO3J
@@ -16,7 +16,7 @@ repositories:
   - giteeid: zhongjun2
     email: jun.zhongjun@huawei.com
   member:
-  - giteeid: 
+  - giteeid: BoxuanZhao
     email: 
 - name: Summer2021-NO.4 LOOP设备支持IO并行化
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUOS
@@ -25,16 +25,16 @@ repositories:
   - giteeid: qilongzhang
     email: zhangqilong3@huawei.com
   member:
-  - giteeid: 
+  - giteeid: syuchen
     email: 
 - name: Summer2021-No.5 为openEuler提供OpenStack Swift软件包
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUTE
   path: https://gitee.com/openeuler-competition/summer2021-5
   tutor: 
-  - giteeid: zhengzhenyu
+  - giteeid: xiyuanwang
     email: wangxiyuan@huawei.com
   member:
-  - giteeid: 
+  - giteeid: li-mingzhou
     email: 
 - name: Summer2021-No.6 将MindSpore 1.2.0版本引入openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUTG
@@ -43,7 +43,7 @@ repositories:
   - giteeid: zhengzhenyu
     email: zheng.zhenyu@outlook.com
   member:
-  - giteeid: 
+  - giteeid: ladybirdff
     email: 
 - name: Summer2021-No.7 将Hadoop 3.3.0版本引入openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUUJ
@@ -52,34 +52,25 @@ repositories:
   - giteeid: zhengzhenyu
     email: zheng.zhenyu@outlook.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.8 MariaDB上游ARM64优化patch回合老版本
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DUXZ
-  path: https://gitee.com/openeuler-competition/summer2021-8
-  tutor: 
-  - giteeid: zhengzhenyu
-    email: zhaobo6@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: huangchengcheng98
     email: 
 - name: Summer2021-No.9 为openEuler提供OpenStack容器化部署能力
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV1S
   path: https://gitee.com/openeuler-competition/summer2021-9
   tutor: 
-  - giteeid: zhengzhenyu
+  - giteeid: xiyuanwang
     email: wangxiyuan@huawei.com
   member:
-  - giteeid: 
+  - giteeid: zengyini
     email: 
 - name: Summer2021-No.10 为openEuler提供ClickHouse rpm包
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV25
   path: https://gitee.com/openeuler-competition/summer2021-10
   tutor: 
-  - giteeid: zhengzhenyu
+  - giteeid: bzhaoop
     email: zhaobo6@huawei.com
   member:
-  - giteeid: 
+  - giteeid: fufengzhishang
     email: 
 - name: Summer2021-No.11 openEuler开发者用户画像
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV26
@@ -97,7 +88,7 @@ repositories:
   - giteeid: georgecao
     email: george.cao@huawei.com
   member:
-  - giteeid: 
+  - giteeid: YoungY620
     email: 
 - name: Summer2021-No.13 openEuler版本演进中的License冲突检测
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E2PG
@@ -106,34 +97,34 @@ repositories:
   - giteeid: clement_li
     email: lizi4@huawei.com 
   member:
-  - giteeid: 
+  - giteeid: joy-jiang
     email: 
 - name: Summer2021-No.14 开发基于freerdp的openEuler rdp桌面连接应用
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9AZ
   path: https://gitee.com/openeuler-competition/summer2021-14
   tutor: 
-  - giteeid: yeqinglong01
-    email: yeqinglong@uniontech.com
+  - giteeid: weidongkl
+    email: 
   member:
-  - giteeid: 
+  - giteeid: ifexist
     email: 
 - name: Summer2021-No.15 开发iso刻录DDE桌面应用
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9CG
   path: https://gitee.com/openeuler-competition/summer2021-15
   tutor: 
-  - giteeid: yeqinglong01
-    email: yeqinglong@uniontech.com
+  - giteeid: weidongkl
+    email: 
   member:
-  - giteeid: 
+  - giteeid: hollowman6
     email: 
 - name: Summer2021-No.16 开发DDE桌面上基于rpm的软件包安装器
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9DN
   path: https://gitee.com/openeuler-competition/summer2021-16
   tutor: 
-  - giteeid: yeqinglong01
-    email: yeqinglong@uniontech.com
+  - giteeid: weidongkl
+    email: 
   member:
-  - giteeid: 
+  - giteeid: marsCatXDU
     email: 
 - name: Summer2021-No.17 为openEuler社区适配开源的学之思在线考试系统
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9IY
@@ -142,7 +133,7 @@ repositories:
   - giteeid: weidongkl
     email: weidong@uniontech.com
   member:
-  - giteeid: 
+  - giteeid: SnorKeling
     email: 
 - name: Summer2021-No.18 linux内核的维测工具page owner增强
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3E9Y8
@@ -151,34 +142,7 @@ repositories:
   - giteeid: LiuYongQiang0816
     email: liuyongqiang13@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.19 树莓派, 移动终端等资源受限场景KSM性能优化
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EASJ
-  path: https://gitee.com/openeuler-competition/summer2021-19
-  tutor: 
-  - giteeid: fanchengyang
-    email: cy.fan@huawei.com
-  member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.20 pud/pmd-level mremap特性回合并支持risc-v架构
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EASR
-  path: https://gitee.com/openeuler-competition/summer2021-20
-  tutor: 
-  - giteeid: c868aef3c2e1
-    email: liushixin2@huawei.com
-  member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.21 RISC-V栈回溯增强
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EATA
-  path: https://gitee.com/openeuler-competition/summer2021-21
-  tutor: 
-  - giteeid: chenhuang_e050
-    email: chenhuang5@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: Mean_Revision
     email: 
 - name: Summer2021-No.23 实现RISCV架构下支持qspinlock
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EAV7
@@ -187,25 +151,16 @@ repositories:
   - giteeid: tongtiangen
     email: tongtiangen@huawei.com
   member:
-  - giteeid: 
+  - giteeid: w852432070
     email: 
 - name: Summer2021-No.24 基于Linux Lab搭建openEuler内核开发环境
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSE
   path: https://gitee.com/openeuler-competition/summer2021-24
   tutor: 
-  - giteeid: xiexiuqi
-    email: xiexiuqi@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: gatieme
     email: 
-- name: Summer2021-No.25 基于openEuler kernel出一个实时内核，并评估实时性
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSK
-  path: https://gitee.com/openeuler-competition/summer2021-25
-  tutor: 
-  - giteeid: xiexiuqi
-    email: xiexiuqi@huawei.com
   member:
-  - giteeid: 
+  - giteeid: LeoJhonSong
     email: 
 - name: Summer2021-No.26 优化openEuler内核启动时间(重启时间)
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBSW
@@ -214,7 +169,7 @@ repositories:
   - giteeid: xiexiuqi
     email: xiexiuqi@huawei.com
   member:
-  - giteeid: 
+  - giteeid: x5a_4d
     email: 
 - name: Summer2021-No.27 优化Linux系统的CPU占用时间统计
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EBT6
@@ -223,16 +178,7 @@ repositories:
   - giteeid: xiexiuqi
     email: xiexiuqi@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.28 改进的JDK的intrinsic添加手段
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ECTQ
-  path: https://gitee.com/openeuler-competition/summer2021-28
-  tutor: 
-  - giteeid: whustc
-    email: wanghuang3@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: LHY1999
     email: 
 - name: Summer2021-No.29 使能Files cgroup系统支持stat功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ECXD
@@ -241,7 +187,7 @@ repositories:
   - giteeid: lujialin2
     email: lujialin4@huawei.com
   member:
-  - giteeid: 
+  - giteeid: lijunxian
     email: 
 - name: Summer2021-No.30 Selinux支持独立控制SocketCAN设备的读权限
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ED0I
@@ -250,25 +196,7 @@ repositories:
   - giteeid: xiujianfeng
     email: xiujianfeng@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.31 StratoVirt虚拟化平台启动时间的优化
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDJ4
-  path: https://gitee.com/openeuler-competition/summer2021-31
-  tutor: 
-  - giteeid: gokwok_rs
-    email: 21751084@zju.edu.cn
-  member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.32 在StratoVirt虚拟化平台实现io_uring特性
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQ9
-  path: https://gitee.com/openeuler-competition/summer2021-32
-  tutor: 
-  - giteeid: xinleguo
-    email: guoxinle1@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: lijiamu233
     email: 
 - name: Summer2021-No.33 为内核ftrace设计一个轻量级中断处理、关中断、关抢占时长监测工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQE
@@ -277,16 +205,7 @@ repositories:
   - giteeid: cuibixuan
     email: cuibixuan@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.34 实现perf支持IRQ监控
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDQR
-  path: https://gitee.com/openeuler-competition/summer2021-34
-  tutor: 
-  - giteeid: cuibixuan
-    email: cuibixuan@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: kang-huichun
     email: 
 - name: Summer2021-No.35 内核踩内存问题定位辅助驱动
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EDST
@@ -295,7 +214,7 @@ repositories:
   - giteeid: cuibixuan
     email: cuibixuan@huawei.com
   member:
-  - giteeid: 
+  - giteeid: shangcode_happy
     email: 
 - name: Summer2021-No.36 将AMD ROCm开源软件栈逐步引入openEuler实现GPU加速计算
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EEN1
@@ -304,7 +223,7 @@ repositories:
   - giteeid: jammyzhou_admin
     email: jammy.zhou@gmail.com 
   member:
-  - giteeid: 
+  - giteeid: huangyizhitt
     email: 
 - name: Summer2021-NO.37 在openeuler内核中引进maple tree，优化vma管理
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFL4
@@ -313,16 +232,7 @@ repositories:
   - giteeid: yusongping
     email: yusongping@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.38 优化secGear编译框架
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFP5
-  path: https://gitee.com/openeuler-competition/summer2021-38
-  tutor: 
-  - giteeid: chenmaodong
-    email: chenmaodong@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: csbingao
     email: 
 - name: Summer2021-No.39 Linux内核的PELT算法改进
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFZ1
@@ -331,7 +241,7 @@ repositories:
   - giteeid: johnwh
     email: john.wanghui@huawei.com
   member:
-  - giteeid: 
+  - giteeid: chen-wenxi
     email: 
 - name: Summer2021-No.40 统计一个内核模块占用的内存
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EFZU
@@ -340,7 +250,7 @@ repositories:
   - giteeid: johnwh
     email: john.wanghui@huawei.com
   member:
-  - giteeid: 
+  - giteeid: adventural
     email: 
 - name: Summer2021-No.41 开发一个系统内存使用情况统计工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EG0G
@@ -349,16 +259,16 @@ repositories:
   - giteeid: johnwh
     email: john.wanghui@huawei.com
   member:
-  - giteeid: 
+  - giteeid: sheny1xuan
     email: 
 - name: Summer2021-No.42 支持通过ftrace原始数据分析系统整体的调度latency
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EG0M
   path: https://gitee.com/openeuler-competition/summer2021-42
   tutor: 
-  - giteeid: johnwh
-    email: john.wanghui@huawei.com
+  - giteeid: cuibixuan
+    email: 
   member:
-  - giteeid: 
+  - giteeid: shao-sh
     email: 
 - name: Summer2021-No.43 在Linux内核批量页申请接口支持
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EG54
@@ -367,7 +277,7 @@ repositories:
   - giteeid: wkfxxx
     email: wangkefeng.wang@huawei.com
   member:
-  - giteeid: 
+  - giteeid: benhembert
     email: 
 - name: Summer2021-No.44 ARM64平台实现硬件长数据断点功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGD2
@@ -385,7 +295,7 @@ repositories:
   - giteeid: xunknown
     email: chenlifu@huawei.com
   member:
-  - giteeid: 
+  - giteeid: ScUpax0s
     email: 
 - name: Summer2021-No.46 使用secGear机密计算框架保护openssh的落盘口令
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGZ9
@@ -394,16 +304,7 @@ repositories:
   - giteeid: chenmaodong
     email: chenmaodong@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.47 通过Cephadm在openEuler上部署Ceph并完整测试集群功能
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHBM
-  path: https://gitee.com/openeuler-competition/summer2021-47
-  tutor: 
-  - giteeid: kevinzs
-    email: kevin.zhao@linaro.org
-  member:
-  - giteeid: 
+  - giteeid: siqiz
     email: 
 - name: Summer2021-No.48 实现一个类似开源ROW的IO调度器
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCH
@@ -412,7 +313,7 @@ repositories:
   - giteeid: linux_anio
     email: yuchangchun1@huawei.com
   member:
-  - giteeid: 
+  - giteeid: L_Collection
     email: 
 - name: Summer2021-No.49 实现openEuler平台下基于secGear框架的身份认证功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCT
@@ -421,7 +322,7 @@ repositories:
   - giteeid: liuxinlzu
     email: xinl@lzu.edu.cn
   member:
-  - giteeid: 
+  - giteeid: li-ne-ak47
     email: 
 - name: Summer2021-No.50 openEuler平台下基于secGear框架的数字作品权属保护
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EHCY
@@ -439,7 +340,7 @@ repositories:
   - giteeid: DCCooper
     email: lixiang172@huawei.com
   member:
-  - giteeid: 
+  - giteeid: Crescent_P
     email: 
 - name: Summer2021-No.52 将per-memcg LRU lock特性移植到openEuler的内核上
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIE3
@@ -448,7 +349,7 @@ repositories:
   - giteeid: cosunny
     email: miaoqinglang@foxmail.com
   member:
-  - giteeid: 
+  - giteeid: wang-kn
     email: 
 - name: Summer2021-No.53 为Linux内核寻找更多的补丁修改范式
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIJ1
@@ -457,7 +358,7 @@ repositories:
   - giteeid: cosunny
     email: miaoqinglang@foxmail.com
   member:
-  - giteeid: 
+  - giteeid: npcxxxx
     email: 
 - name: Summer2021-No.54 开发Linux内核结构体关联关系分析工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIK7
@@ -466,7 +367,7 @@ repositories:
   - giteeid: gxngit
     email: guoxuenanhit@163.com 
   member:
-  - giteeid: 
+  - giteeid: gao_yc
     email: 
 - name: Summer2021-No.55 基于openEuler的5.10内核实现对系统page cache限制
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIMT
@@ -475,7 +376,7 @@ repositories:
   - giteeid: jing-xiangfeng
     email: jingxiangfeng@huawei.com
   member:
-  - giteeid: 
+  - giteeid: hxcplxz
     email: 
 - name: Summer2021-No.56 优化Linux内核中的复杂头文件依赖
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIOX
@@ -493,7 +394,7 @@ repositories:
   - giteeid: gxngit
     email: guoxuenanhit@163.com 
   member:
-  - giteeid: 
+  - giteeid: mpiglet
     email: 
 - name: Summer2021-No.58 实现Linux memory cgroup子系统的水线分级功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJ05
@@ -502,7 +403,7 @@ repositories:
   - giteeid: jing-xiangfeng
     email: jingxiangfeng@huawei.com
   member:
-  - giteeid: 
+  - giteeid: super101
     email: 
 - name: Summer2021-No.59 基于secGear机密计算框架实现用户信息表保护与“一次一密”
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJ8Q
@@ -511,7 +412,7 @@ repositories:
   - giteeid: liuxinlzu
     email: xinl@lzu.edu.cn
   member:
-  - giteeid: 
+  - giteeid: yanghaorui
     email: 
 - name: Summer2021-No.60 将Data Access Monitor DAMON特性移植到openEuler内核
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EJPN
@@ -520,7 +421,7 @@ repositories:
   - giteeid: zou-yue-yue
     email: zouyue3@huawei.com
   member:
-  - giteeid: 
+  - giteeid: cucumbero
     email: 
 - name: Summer2021-No.61 实现memory cgroup子系统OOM优先级的功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EL9X
@@ -529,16 +430,7 @@ repositories:
   - giteeid: jing-xiangfeng
     email: jingxiangfeng@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.62 实现UBI并发扫描加速attach过程
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EM3I
-  path: https://gitee.com/openeuler-competition/summer2021-62
-  tutor: 
-  - giteeid: czh549642238
-    email: chengzhihao1@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: Zerob
     email: 
 - name: Summer2021-No.63 openEuler基础镜像优化
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EM49
@@ -547,7 +439,7 @@ repositories:
   - giteeid: meilier
     email: xingweizheng@huawei.com
   member:
-  - giteeid: 
+  - giteeid: wojibayang
     email: 
 - name: Summer2021-No.64 设计一套Arm64/RISCV内核代码分析工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EMAO
@@ -556,25 +448,7 @@ repositories:
   - giteeid: liaochang
     email: liaochang1@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.65  基于X86平台超线程提升系统性能
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EMKO
-  path: https://gitee.com/openeuler-competition/summer2021-65
-  tutor: 
-  - giteeid: oskernel0719
-    email: majunhai2@huawei.com
-  member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.66 提供openEuler云原生基础镜像集
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EN2R
-  path: https://gitee.com/openeuler-competition/summer2021-66
-  tutor: 
-  - giteeid: meilier
-    email: xingweizheng@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: Maple94
     email: 
 - name: Summer2021-No.67 实现日志文件系统xfs支持subpage dirty
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ENI6
@@ -583,16 +457,7 @@ repositories:
   - giteeid: hailan94
     email: 20200819120542.3780727-1-yukuai3@huawei.com/
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.68 实现isula-build支持多存储驱动
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EP36
-  path: https://gitee.com/openeuler-competition/summer2021-68
-  tutor: 
-  - giteeid: jingxiaolu
-    email: lujingxiao@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: zhong-dongcheng
     email: 
 - name: Summer2021-No.69 为isula-build实现export接口：将镜像导出为rootfs
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EP9C
@@ -601,43 +466,34 @@ repositories:
   - giteeid: jingxiaolu
     email: lujingxiao@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.70 为iSulad设计并开发性能测试框架
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAA
-  path: https://gitee.com/openeuler-competition/summer2021-70
-  tutor: 
-  - giteeid: jingxiaolu
-    email: liuhao27@huawei.com]
-  member:
-  - giteeid: 
+  - giteeid: Lu_Fu
     email: 
 - name: Summer2021-No.71 为iSulad镜像下载过程添加进度条显示
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAO
   path: https://gitee.com/openeuler-competition/summer2021-71
   tutor: 
-  - giteeid: jingxiaolu
+  - giteeid: wangfengtu
     email: wangfengtu@huawei.com
   member:
-  - giteeid: 
+  - giteeid: wsyy0619
     email: 
 - name: Summer2021-No.72 为iSulad创建容器命令增加User namespace的能力
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPAT
   path: https://gitee.com/openeuler-competition/summer2021-72
   tutor: 
-  - giteeid: jingxiaolu
+  - giteeid: jingwoo
     email: wujing50@huawei.com]
   member:
-  - giteeid: 
+  - giteeid: HumbleHunger
     email: 
 - name: Summer2021-No.73 为iSulad的查询(inspect)命令增加size以及type子命令
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EPVK
   path: https://gitee.com/openeuler-competition/summer2021-73
   tutor: 
-  - giteeid: jingxiaolu
+  - giteeid: zhangxiaoyu
     email: zhangxiaoyu58@huawei.com]
   member:
-  - giteeid: 
+  - giteeid: XiyouNiGo
     email: 
 - name: Summer2021-No.74 利用kprobe等工具实现快速定位网络丢包和时延问题的工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ESBZ
@@ -646,16 +502,7 @@ repositories:
   - giteeid: pigalsofine
     email: wanghai38@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.75 统计分析JDK中的Deoptimization模型
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3ESUL
-  path: https://gitee.com/openeuler-competition/summer2021-75
-  tutor: 
-  - giteeid: whustc
-    email: wanghuang3@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: menma
     email: 
 - name: Summer2021-No.76 开发IO热度统计的可视化工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GX7M
@@ -664,7 +511,7 @@ repositories:
   - giteeid: eliotc
     email: wangchengke2@huawei.com
   member:
-  - giteeid: 
+  - giteeid: hesunan
     email: 
 - name: Summer2021-No.77 为iSulad添加checkpoint/restore功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GXYN
@@ -673,7 +520,7 @@ repositories:
   - giteeid: lifeng2221dd1
     email: lifeng68@huawei.com
   member:
-  - giteeid: 
+  - giteeid: xiehengjian
     email: 
 - name: Summer2021-No.78 Rust-usimd项目建设
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GYYE
@@ -682,7 +529,7 @@ repositories:
   - giteeid: sparrowlii
     email: liyuan179@huawei.com/
   member:
-  - giteeid: 
+  - giteeid: vptvpt
     email: 
 - name: Summer2021-No.79 开发完善Rust社区中的度量工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3GZRY
@@ -691,7 +538,7 @@ repositories:
   - giteeid: surechen
     email: chenshuo17@huawei.com 
   member:
-  - giteeid: 
+  - giteeid: ice-tong
     email: 
 - name: Summer2021-No.80 开发完善Rust社区中的代码规范检查工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3H0K2
@@ -700,7 +547,7 @@ repositories:
   - giteeid: surechen
     email: chenshuo17@huawei.com 
   member:
-  - giteeid: 
+  - giteeid: labelray
     email: 
 - name: Summer2021-No.81 将复古游戏机模拟器RetroPie移植到树莓派openEuler平台上
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3H654
@@ -709,7 +556,7 @@ repositories:
   - giteeid: bolin-lee
     email: libaolin@huawei.com
   member:
-  - giteeid: 
+  - giteeid: ouyanghaitao
     email: 
 - name: Summer2021-No.82 linux系统实现direct-thread-switch轻量级线程切换
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HCFU
@@ -718,7 +565,7 @@ repositories:
   - giteeid: chenhui20210406
     email: judy.chenhui@huawei.com
   member:
-  - giteeid: 
+  - giteeid: shao-yinghui
     email: 
 - name: Summer2021-No.83 统计调度系统的性能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HFAV
@@ -727,16 +574,7 @@ repositories:
   - giteeid: yu-jiahua
     email: yujiahua1@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.84 开发Rust crates包仓库病毒扫描功能
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HG1K
-  path: https://gitee.com/openeuler-competition/summer2021-84
-  tutor: 
-  - giteeid: wangkirin
-    email: wangqilintech@gmail.com
-  member:
-  - giteeid: 
+  - giteeid: listen-to-the-spring-rain
     email: 
 - name: Summer2021-No.85 openEuler异常信号监测
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHH2
@@ -745,25 +583,7 @@ repositories:
   - giteeid: tang-yizhou
     email: tangyizhou@huawei.com>
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.86 ext4文件系统只读故障告警监测
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHJB
-  path: https://gitee.com/openeuler-competition/summer2021-86
-  tutor: 
-  - giteeid: tang-yizhou
-    email: tangyizhou@huawei.com>
-  member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.87 BPF实现PACKET_MMAP下的CAN数据过滤器
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHNT
-  path: https://gitee.com/openeuler-competition/summer2021-87
-  tutor: 
-  - giteeid: zhang-changzhong
-    email: zhangchangzhong@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: yu998
     email: 
 - name: Summer2021-No.88 硬盘I/O时延上升监测
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HHOT
@@ -781,7 +601,7 @@ repositories:
   - giteeid: zhangsong234
     email: zhangsong34@huawei.com
   member:
-  - giteeid: 
+  - giteeid: TianKongLanDeHenXuHuan
     email: 
 - name: Summer2021-No.90 为树莓派openEuler操作系统添加轻量级桌面环境
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HRKG
@@ -790,7 +610,7 @@ repositories:
   - giteeid: bolin-lee
     email: libaolin@huawei.com
   member:
-  - giteeid: 
+  - giteeid: weiwei245
     email: 
 - name: Summer2021-No.91 为openEuler添加Volcano软件包增强集群调度能力
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HYAP
@@ -808,7 +628,7 @@ repositories:
   - giteeid: chenhui20210406
     email: judy.chenhui@huawei.com
   member:
-  - giteeid: 
+  - giteeid: hibriansun
     email: 
 - name: Summer2021-No.93 StratoVirt虚拟化平台内存底噪优化
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3J1HP
@@ -817,7 +637,7 @@ repositories:
   - giteeid: xiaohe_yang
     email: xh_young@163.com
   member:
-  - giteeid: 
+  - giteeid: phyhac
     email: 
 - name: Summer2021-No.94 在openeuler社区孵化生物信息单细胞领域开源应用软件
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3J85G
@@ -826,7 +646,7 @@ repositories:
   - giteeid: zhouzhongyuan1
     email: zhouzhongyuan96@163.com
   member:
-  - giteeid: 
+  - giteeid: gfxue
     email: 
 - name: Summer2021-No.95 在openeuler社区孵化生物信息单细胞领域交互式数据分析平台
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3M2TL
@@ -835,7 +655,7 @@ repositories:
   - giteeid: zhouzhongyuan1
     email: zhouzhongyuan96@163.com
   member:
-  - giteeid: 
+  - giteeid: wei_wei0119
     email: 
 - name: Summer2021-No.96 在openEuler系统中提供可扩展的应用可视化配置软件
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3O5OI
@@ -844,16 +664,7 @@ repositories:
   - giteeid: yangzhao_kl
     email: yangzhao1@kylinos.cn
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.98 开源软件测试平台Compass-CI的git-mirror 模块加速
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBQI
-  path: https://gitee.com/openeuler-competition/summer2021-98
-  tutor: 
-  - giteeid: lipingEmmaSiguyi
-    email: liping136@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: SkyzcYou
     email: 
 - name: Summer2021-No.99 在openEuler的UKUI桌面环境适配麒麟影音
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBRF
@@ -862,7 +673,7 @@ repositories:
   - giteeid: dou33
     email: douyan@kylinos.cn
   member:
-  - giteeid: 
+  - giteeid: tongzong
     email: 
 - name: Summer2021-No.100 为openEuler的UKUI桌面增加或适配日程管理应用
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBS1
@@ -871,16 +682,16 @@ repositories:
   - giteeid: dou33
     email: douyan@kylinos.cn
   member:
-  - giteeid: 
+  - giteeid: plasticLov3
     email: 
 - name: Summer2021-No.101 在openEuler的UKUI桌面中增加一款快速启动的软件
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBSG
   path: https://gitee.com/openeuler-competition/summer2021-101
   tutor: 
-  - giteeid: dou33
+  - giteeid: yangzhao_kl
     email: yangzhao1@kylinos.cn
   member:
-  - giteeid: 
+  - giteeid: marmaladeCat
     email: 
 - name: Summer2021-No.102 在openEuler的UKUI桌面环境中增加一款取色计软件 
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBTD
@@ -889,7 +700,7 @@ repositories:
   - giteeid: dou33
     email: douyan@kylinos.cn
   member:
-  - giteeid: 
+  - giteeid: Wed_nesday
     email: 
 - name: Summer2021-No.103 完成在树莓派上部署测试服务平台Compass-CI
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OBTK
@@ -898,7 +709,7 @@ repositories:
   - giteeid: lipingEmmaSiguyi
     email: liping136@huawei.com
   member:
-  - giteeid: 
+  - giteeid: qqdkg
     email: 
 - name: Summer2021-No.104 开发openEuler社区原生的运维管理平台
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OCZ3
@@ -907,16 +718,7 @@ repositories:
   - giteeid: yangzhao_kl
     email: yangzhao1@kylinos.cn
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.105 开发Android系统中重复数据删除技术的性能测试工具
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OCZX
-  path: https://gitee.com/openeuler-competition/summer2021-105
-  tutor: 
-  - giteeid: chen-xianzhang
-    email: xzchen@cqu.edu.cn 
-  member:
-  - giteeid: 
+  - giteeid: abuxliu
     email: 
 - name: Summer2021-No.105 StratoVirt-hydropper测试框架增强
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3OXXZ
@@ -925,7 +727,7 @@ repositories:
   - giteeid: zhk128
     email: zhuhuankai1@huawei.com
   member:
-  - giteeid: 
+  - giteeid: zhulingda
     email: 
 - name: Summer2021-No.106 vmtop添加磁盘和网卡io监控功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3P0LO
@@ -934,7 +736,7 @@ repositories:
   - giteeid: nocjj
     email: chenjiajun8@huawei.com
   member:
-  - giteeid: 
+  - giteeid: xyxrs
     email: 
 - name: Summer2021-No.107 用户态热补丁框架（libcareplus）线程变量（TLS）增强
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRML
@@ -943,7 +745,7 @@ repositories:
   - giteeid: Chuan-Zheng
     email: zhengchuan@huawei.com
   member:
-  - giteeid: 
+  - giteeid: liamni
     email: 
 - name: Summer2021-No.108 家庭智能安全防范示例系统开发
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRPK
@@ -952,16 +754,7 @@ repositories:
   - giteeid: bugflyfly
     email: wei_jiangang@hoperun.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.109 用户态热补丁框架（libcareplus）补丁制作增强
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRQU
-  path: https://gitee.com/openeuler-competition/summer2021-109
-  tutor: 
-  - giteeid: Chuan-Zheng
-    email: zhengchuan@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: daaaaaaaaaaa
     email: 
 - name: Summer2021-No.110 操作系统安全漏洞扫描与报警项目
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PRRT
@@ -970,7 +763,7 @@ repositories:
   - giteeid: bugflyfly
     email: wei_jiangang@hoperun.com
   member:
-  - giteeid: 
+  - giteeid: C_M
     email: 
 - name: Summer2021-No.111 avocado-vt测试框架增加支持StratoVirt的json配置管理虚拟机
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PS21
@@ -979,7 +772,7 @@ repositories:
   - giteeid: upper_code
     email: kezhiming@huawei.com
   member:
-  - giteeid: 
+  - giteeid: ren-zongze
     email: 
 - name: Summer2021-No.112 qemu设备fuzz测试完善
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3PXE8
@@ -988,7 +781,7 @@ repositories:
   - giteeid: ganqx
     email: ganqixin@huawei.com 
   member:
-  - giteeid: 
+  - giteeid: cascades
     email: 
 - name: Summer2021-No.113 完善StratoVirt在x86_64平台上的RTC设备模拟
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3Q0Q5
@@ -997,7 +790,7 @@ repositories:
   - giteeid: xiaohe_yang
     email: xh_young@163.com
   member:
-  - giteeid: 
+  - giteeid: aa1hshh
     email: 
 - name: Summer2021-No.114 添加StratoVirt对中断控制器gic-v2的支持
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3Q0UV
@@ -1006,7 +799,7 @@ repositories:
   - giteeid: zhangliang5
     email: 21751084@zju.edu.cn
   member:
-  - giteeid: 
+  - giteeid: rez5427
     email: 
 - name: Summer2021-No.115 新增stratovirt支持balloon内存信息统计
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3Q1A8
@@ -1024,7 +817,7 @@ repositories:
   - giteeid: xiang_zh
     email: zhangx@uestc.edu.cn 
   member:
-  - giteeid: 
+  - giteeid: constantine3
     email: 
 - name: Summer2021-No.117 基于iSula的容器编排系统设计
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QC2O
@@ -1042,7 +835,7 @@ repositories:
   - giteeid: reganhe_xx
     email: herengui@uniontech.com
   member:
-  - giteeid: 
+  - giteeid: Why192
     email: 
 - name: Summer2021-No.119 Linux Lab镜像添加openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QG1G
@@ -1051,7 +844,7 @@ repositories:
   - giteeid: gatieme
     email: xiexiuqi@huawei.com
   member:
-  - giteeid: 
+  - giteeid: crablet-lab
     email: 
 - name: Summer2021-No.120 为openEuler官网添加修改文件实时渲染功能
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QJWW
@@ -1060,43 +853,43 @@ repositories:
   - giteeid: TommyLike
     email: tommylikehu@gmail.com
   member:
-  - giteeid: 
+  - giteeid: Elodie181
     email: 
 - name: Summer2021-No.121 将Harbor引入openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QL3H
   path: https://gitee.com/openeuler-competition/summer2021-121
   tutor: 
-  - giteeid: bluesky1213
+  - giteeid: viikei
     email: liuganga@uniontech.com
   member:
-  - giteeid: 
+  - giteeid: konglidong
     email: 
 - name: Summer2021-No.122 将Nexus引入openEuler
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QONP
   path: https://gitee.com/openeuler-competition/summer2021-122
   tutor: 
   - giteeid: weidongkl
-    email: zhaominmin@uniontech.com
+    email: 
   member:
-  - giteeid: 
+  - giteeid: Eqno
     email: 
 - name: Summer2021-No.123 调研Linux桌面测试自动化工具
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QR6P
   path: https://gitee.com/openeuler-competition/summer2021-123
   tutor: 
-  - giteeid: lemon-higgins
+  - giteeid: Charlie_li
     email: liyongqiang329@163.com
   member:
-  - giteeid: 
+  - giteeid: whysoseriouscc
     email: 
 - name: Summer2021-No.124 基于mugen测试框架开发实现前端管理，实现任务触发及最终的结果展示
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3QRI4
   path: https://gitee.com/openeuler-competition/summer2021-124
   tutor: 
-  - giteeid: Charlie_li
+  - giteeid: lemon-higgins
     email: lemon.higgins@aliyun.com
   member:
-  - giteeid: 
+  - giteeid: Lumos_yuan
     email: 
 - name: Summer2021-No.125 开源软件源码license文本信息扫描工具开发
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R0JW
@@ -1105,7 +898,7 @@ repositories:
   - giteeid: smartsyoung
     email: yangcong_hit@163.com
   member:
-  - giteeid: 
+  - giteeid: shengtong980520
     email: 
 - name: Summer2021-No.126 为openEuler操作系统移植RDMA协议栈OFED
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R25U
@@ -1123,22 +916,13 @@ repositories:
   - giteeid: pwang7
     email: pan.zheng@datenlord.io
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.128 基于openEuler操作系统搭建开源EDA工具OpenLane自动化处理流程
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R2A3
-  path: https://gitee.com/openeuler-competition/summer2021-128
-  tutor: 
-  - giteeid: pwang7
-    email: pan.zheng@datenlord.io
-  member:
-  - giteeid: 
+  - giteeid: cxx1234
     email: 
 - name: Summer2021-No.129 UCX通信库的Rust异步封装
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R2NR
   path: https://gitee.com/openeuler-competition/summer2021-129
   tutor: 
-  - giteeid: pwang7
+  - giteeid: 
     email: wangrunji0408@163.com
   member:
   - giteeid: 
@@ -1150,43 +934,25 @@ repositories:
   - giteeid: bolin-lee
     email: libaolin@huawei.com
   member:
-  - giteeid: 
+  - giteeid: chasewisdom
     email: 
 - name: Summer2021-No.131 为openEuler操作系统中安装的memcached应用进行性能调优
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6AC
   path: https://gitee.com/openeuler-competition/summer2021-131
   tutor: 
-  - giteeid: hanxinke
+  - giteeid: gaoruoshu
     email: bei540296467@yahoo.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.132 为openEuler操作系统中安装的kafka应用进行性能调优
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6BO
-  path: https://gitee.com/openeuler-competition/summer2021-132
-  tutor: 
-  - giteeid: hanxinke
-    email: hanxinke@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: chiclee
     email: 
 - name: Summer2021-No.133 为openEuler操作系统中安装的TiDB应用进行性能调优
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6C9
   path: https://gitee.com/openeuler-competition/summer2021-133
   tutor: 
-  - giteeid: hanxinke
+  - giteeid: huangduirong
     email: huangduirong@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.134 为openEuler操作系统中安装的gaussdb应用进行性能调优
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R6J1
-  path: https://gitee.com/openeuler-competition/summer2021-134
-  tutor: 
-  - giteeid: hanxinke
-    email: xiezhipeng1@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: innovation64
     email: 
 - name: Summer2021-No.135 识别软件包里的Python脚本与其调用的系统命令和服务
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R99W
@@ -1195,7 +961,7 @@ repositories:
   - giteeid: lovelijunyi
     email: lijunyi088@163.com
   member:
-  - giteeid: 
+  - giteeid: ccccmd
     email: 
 - name: Summer2021-No.136 识别软件包里的Shell脚本与其调用的系统命令和服务
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R9IQ
@@ -1204,7 +970,7 @@ repositories:
   - giteeid: lovelijunyi
     email: lijunyi088@163.com
   member:
-  - giteeid: 
+  - giteeid: fxfxfxfxfxfx
     email: 
 - name: Summer2021-No.137 openEuler社区官网和文档官网SEO优化
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RA23
@@ -1213,16 +979,7 @@ repositories:
   - giteeid: zhengyuhanghans
     email: zhengyuhang@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.138 智能分析可执行文件命令的差异
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RC9K
-  path: https://gitee.com/openeuler-competition/summer2021-138
-  tutor: 
-  - giteeid: lovelijunyi
-    email: lijunyi088@163.com
-  member:
-  - giteeid: 
+  - giteeid: miaolalamiya
     email: 
 - name: Summer2021-No.139 DPDK，SPDK用户态驱动开发和兼容性测试用例补充
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RD4W
@@ -1231,16 +988,7 @@ repositories:
   - giteeid: yao-wei-neilyao
     email: neil.yao@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.140 基于secGear机密计算框架实现软件TPM
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RG4C
-  path: https://gitee.com/openeuler-competition/summer2021-140
-  tutor: 
-  - giteeid: blue0613
-    email: gaoguijin@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: young0zen
     email: 
 - name: Summer2021-No.141 openEuler社区体验地图的Web 3D小游戏开发
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RJ5M
@@ -1249,43 +997,16 @@ repositories:
   - giteeid: zhengyuhanghans
     email: zhengyuhang@huawei.com 
   member:
-  - giteeid: 
+  - giteeid: bli23-01
     email: 
 - name: Summer2021-No.142 将Graphene引入openEuler，并利用secGear改造
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RMRH
   path: https://gitee.com/openeuler-competition/summer2021-142
   tutor: 
-  - giteeid: yanlu14
-    email: yanlu14@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: houmingyong
     email: 
-- name: Summer2021-No.143 适配回合upstream社区qemu 4.2的microvm等Feature
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RQXN
-  path: https://gitee.com/openeuler-competition/summer2021-143
-  tutor: 
-  - giteeid: imxcc
-    email: xingchaochao@huawei.com 
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.144 开发Linux跨进程共享地址空间引擎
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RT2T
-  path: https://gitee.com/openeuler-competition/summer2021-144
-  tutor: 
-  - giteeid: bluesky1213
-    email: liliang6@me.com
-  member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.145 开源项目开发者组织识别
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RTC5
-  path: https://gitee.com/openeuler-competition/summer2021-145
-  tutor: 
-  - giteeid: lixianlin01
-    email: lixianlin1@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: w-pluviophile
     email: 
 - name: Summer2021-No.146 开源社区运营活动效果评估
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RU30
@@ -1294,7 +1015,7 @@ repositories:
   - giteeid: lixianlin01
     email: lixianlin1@huawei.com
   member:
-  - giteeid: 
+  - giteeid: Specul
     email: 
 - name: Summer2021-No.147 招募云原生K8S集群管理解决方案Eggo体验官
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RX06
@@ -1303,16 +1024,7 @@ repositories:
   - giteeid: duguhaotian
     email: liuhao27@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.148 实现Eggo的kubeadm模式的控制面模块
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RXH7
-  path: https://gitee.com/openeuler-competition/summer2021-148
-  tutor: 
-  - giteeid: duguhaotian
-    email: liuhao27@huawei.com
-  member:
-  - giteeid: 
+  - giteeid: shuyroy
     email: 
 - name: Summer2021-No.149 实现Eggo的kubeadm模式的基础设施与etcd模块
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RXO3
@@ -1321,25 +1033,16 @@ repositories:
   - giteeid: zh_xiaoyu
     email: zhangxiaoyu58@huawei.com
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.150 用Rust为RDMA实现K8S的CNI容器网络接口
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3RYUT
-  path: https://gitee.com/openeuler-competition/summer2021-150
-  tutor: 
-  - giteeid: pwang7
-    email: qi.tian@datenlord.io
-  member:
-  - giteeid: 
+  - giteeid: DanielCorleoneqin
     email: 
 - name: Summer2021-No.151 用Rust实现Serverless无感知存储层
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S1DY
   path: https://gitee.com/openeuler-competition/summer2021-151
   tutor: 
-  - giteeid: pwang7
+  - giteeid: 
     email: jicheng.shi@datenlord.io
   member:
-  - giteeid: 
+  - giteeid: csu_why
     email: 
 - name: Summer2021-No.152 制作openEuler桌面版发行版
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S1KF
@@ -1348,16 +1051,7 @@ repositories:
   - giteeid: bolin-lee
     email: libaolin@huawei.com 
   member:
-  - giteeid: 
-    email: 
-- name: Summer2021-No.153 使用Rust语言开发Kubernetes Obejct解析引擎
-  description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2M3
-  path: https://gitee.com/openeuler-competition/summer2021-153
-  tutor: 
-  - giteeid: genedna
-    email: maquanyi@openeuler.io 
-  member:
-  - giteeid: 
+  - giteeid: xzheng325
     email: 
 - name: Summer2021-No.154 使用Rust语言解析Git对象
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2MP
@@ -1366,7 +1060,7 @@ repositories:
   - giteeid: genedna
     email: maquanyi@openeuler.io 
   member:
-  - giteeid: 
+  - giteeid: Chuangzw
     email: 
 - name: Summer2021-No.155 使用Rust编写一个DAG解析引擎
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3S2NP
@@ -1375,14 +1069,14 @@ repositories:
   - giteeid: genedna
     email: maquanyi@openeuler.io 
   member:
-  - giteeid: 
+  - giteeid: xiaodouzi6666
     email: 
 - name: Summer2021-No.156 openEuler官网文档友好性提升
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3SA5W
   path: https://gitee.com/openeuler-competition/summer2021-156
   tutor: 
-  - giteeid: qiaominna
+  - giteeid: zhengyuhanghans
     email: zhengyuhang@huawei.com 
   member:
-  - giteeid: 
+  - giteeid: hurstsi
     email: 
