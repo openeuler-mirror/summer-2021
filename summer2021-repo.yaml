@@ -79,7 +79,7 @@ repositories:
   - giteeid: zhongjun2
     email: jun.zhongjun@huawei.com
   member:
-  - giteeid: 
+  - giteeid: WenzongXia
     email: 
 - name: Summer2021-No.12 为openEuler社区提供一个FAQ的web服务
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3DV2B
@@ -385,7 +385,7 @@ repositories:
   - giteeid: cosunny
     email: miaoqinglang@foxmail.com
   member:
-  - giteeid: 
+  - giteeid: oscarliu2019
     email: 
 - name: Summer2021-No.57 erofs文件系统的dump工具开发
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EIRF
@@ -592,7 +592,7 @@ repositories:
   - giteeid: tang-yizhou
     email: tangyizhou@huawei.com
   member:
-  - giteeid: 
+  - giteeid: sort_ink
     email: 
 - name: Summer2021-No.89 openeuler支持KubeEdge边缘侧云原生部署
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HO0Q
@@ -619,7 +619,7 @@ repositories:
   - giteeid: leizhongkai
     email: leizhongkai@huawei.com
   member:
-  - giteeid: 
+  - giteeid: xiazhimaidou
     email: 
 - name: Summer2021-No.92 实现一个新的调度类，较CFS任务具有更高的抢占优先性，较RT任务具有公平性
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3HYR2
