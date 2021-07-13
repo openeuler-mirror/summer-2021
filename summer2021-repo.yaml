@@ -295,7 +295,7 @@ repositories:
   - giteeid: xunknown
     email: chenlifu@huawei.com
   member:
-  - giteeid: guoziyi_210010066
+  - giteeid: orangegzy
     email: 
 - name: Summer2021-No.46 使用secGear机密计算框架保护openssh的落盘口令
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3EGZ9
@@ -907,7 +907,7 @@ repositories:
   - giteeid: 
     email: pan.zheng@datenlord.io
   member:
-  - giteeid: scofield_liew
+  - giteeid: scofield-liew
     email: 
 - name: Summer2021-No.127 用Rust实现DPDK封装
   description: https://gitee.com/openeuler-competition/summer-2021/issues/I3R27U
