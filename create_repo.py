@@ -68,7 +68,7 @@ def check_and_create_repos(org, url, parameters, data, repo_path):
             logging.error(response.text)
             return False
         logging.info('Create repo {} successfully'.format(repo_name))
-        reviewer_conf_url = 'https://gitee.com/api/v5/repos/{}/{}/reviewer'.format(org, repo_name)
+        reviewer_conf_url = 'https://gitee.com/api/v5/repos/{}/{}/reviewer'.format(org, repo_path)
         payload = {
             'access_token': access_token,
             'assignees': '',
@@ -150,10 +150,11 @@ def main():
     create_url = 'https://gitee.com/api/v5/orgs/{}/repos'.format(org)
     for repository in yaml_information['repositories']:
         description = repository['description']
-        repo_name = repository['path'].split('/')[-1]
+        name = repository['name']
+        repo_path = repository['path'].split('/')[-1]
         param = {
             "access_token": args.access_token,
-            "name": repo_name,
+            "name": name,
             "description": description,
             "has_issues": 'true',
             "has_wiki": 'true',
@@ -162,9 +163,9 @@ def main():
             "auto_init": 'true',
             "public": 1,
             'license_template': 'MulanPSL-2.0',
-            "path": repo_name
+            "path": repo_path
         }
-        check_and_create_repos(org, create_url, param, repository, repo_path=repo_name)
+        check_and_create_repos(org, create_url, param, repository, repo_path)
 
 
 if __name__ == '__main__':
